@@ -1,33 +1,33 @@
 inc:
   # Blog Information
-  title:        "Jekyll Incorporated"
-  subtitle:     "Modern Jekyll based blog for companies"
-  cover_image:  blog-cover.jpg
+  title:        "Codeando México Blog"
+  subtitle:     "Historias y conversaciones de hacking cívico y open data"
+  cover_image:  mexico_city_hd.jpg
   logo:         logo.png
   
   # Company information
-  company:      Incorporated
-  url:          http://sendtoinc.com/
-  facebook:     sendtoinc
-  twitter:      sendtoinc
-  gplus:        '101183822199340201470'
-  about_link:   https://sendtoinc.com/about/
+  company:      Codeando México
+  url:          http://codeandomexico.org/
+  facebook:     CodeandoMexico
+  twitter:      CodeandoMexico
+  gplus:        '111401515464702893085'
+  about_link:   https://codeandomexico.org/acerca/
   
   # Product Information
-  product_link: http://incorporated.sendtoinc.com/
-  tagline:      "Get a modern blog for your company"
+  product_link: http://codeandomexico.org/
+  tagline:      "La plataforma para la nueva era de innovación cívica"
   
   # Comments
   disqus:
     # Eg. "exampleblog" Set to false to disable comments
-    shortname:  false
+    shortname:  codeandomx-blog
   
   # Sharing settings
   sharing:
-    twitter:    false
-    facebook:   false
+    twitter:    true
+    facebook:   true
     gplus:      false
-    hn:         false
+    hn:         true
     
   
  # Analytics     
@@ -41,7 +41,7 @@ inc:
   
   # Setup your fonts, colors etc at _assets/stylesheets/main.scss
 
-url:         http://incorporated.sendtoinc.com
+url:         http://blog.codeandomexico.org
 source:      .
 destination: ./_site
 plugins:     ./_plugins
