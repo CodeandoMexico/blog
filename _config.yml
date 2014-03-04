@@ -28,13 +28,12 @@ inc:
     facebook:   true
     gplus:      false
     hn:         true
-    
-  
+
  # Analytics     
   analytics:
-    google: false # Add tracking code in _includes/_google-analytics.html
-      
-      
+    google:  
+      id: 'UA-36672089-4'
+
   # Google Fonts
   # eg. 'Droid+Sans:400,700|Droid+Serif:400,700'
   google_font: 'Droid+Sans:400,700'
