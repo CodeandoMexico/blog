@@ -15,7 +15,7 @@ author:
   image: authors/JP.jpg
 ---
 
-Codeando México es una startup cívica que habilita la innovación abierta través de tecnologías y datos abiertos. 
+Codeando México es una startup cívica que habilita la innovación abierta a través de tecnología y datos abiertos. 
 Conectamos gobiernos y OSCs con creadores y hackers cívicos como plataforma para una nueva era de innovación cívica 
 digital.
 
@@ -25,7 +25,8 @@ Nuestros proyectos principales son [datamx.io](http://datamx.io/), la plataforma
 reportes ciudadanos y la [Brigada](http://codeforall.mx/), un programa que activa y conecta a las comunidades de 
 hackers cívicos de México.
 
-Estamos creciendo. Buscamos a un Líder de Comunidad que nos apoye a organizar, escribir y escalar el movimiento.
+Estamos creciendo. Buscamos a un Líder de Comunidad que nos apoye a organizar, escribir y escalar el movimiento
+a lo largo de México y Latinoamérica.
 
 **Como parte de Codeando México, estarás:**
 
@@ -53,10 +54,10 @@ Estamos creciendo. Buscamos a un Líder de Comunidad que nos apoye a organizar, 
 
 **Sobre la forma de trabajo y beneficios:**
 
-* Estamos buscando principalmente alguien basado en Monterrey, Ciudad de México o Guadalajara, pero puedes trabajar remoto desde cualquier parte de México en cualquier momento.
+* Estamos buscando a principalmente alguien *full-time* basado en Monterrey, Ciudad de México o Guadalajara, pero puedes trabajar remoto desde cualquier parte de México en cualquier momento.
 * Un salario competitivo y vacaciones flexibles.
 * Aprender y crecer trabajando con un equipo de hackers cívicos que empujan día a día la creación de un nuevo ecosistema cívico + tecnológico y que empujamos a crecer como personas en paralelo a lo profesional. Un ambiente relajado y abierto a nuevas propuestas.
 
 **Para aplicar:**
 
-Escríbenos a <equipo@codeandomexico.org> con un *one-page-letter* sobre por qué te gustaría formar parte de Codeando México, incluyendo proyectos relevantes que nos quieras platicar, perfil de redes sociales, y tu CV.
+Escríbenos a <equipo@codeandomexico.org> con un *one-page-letter* sobre por qué te gustaría formar parte de Codeando México, incluyendo proyectos relevantes que nos quieras platicar, perfil de redes sociales y tu CV.
