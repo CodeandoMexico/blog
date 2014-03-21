@@ -1,10 +1,10 @@
 ---
 layout: post
 
-title: Codeando México busca Director de Comunidad
-subtitle: "Nuevas oportunidades en el equipo de Codeando México"
+title: Buscamos a Líder de Comunidad
+subtitle: "Únete a nuestro equipo de hackers cívicos"
 
-excerpt: "Codeando México busca un Director de Comunidad para unirse 
+excerpt: "Codeando México busca a un líder de comunidad para unirse 
 a nuestro equipo de hackers cívicos."
 
 author:
@@ -25,13 +25,12 @@ Nuestros proyectos principales son [datamx.io](http://datamx.io/), la plataforma
 reportes ciudadanos y la [Brigada](http://codeforall.mx/), un programa que activa y conecta a las comunidades de 
 hackers cívicos de México.
 
-Buscamos desarrollar un nuevo ecosistema de innovación cívica en donde los recursos abiertos permitan crear empresas y 
-nuevos servicios públicos con la agilidad y disrupción que caracteriza a la comunidad tecnológica a nivel mundial.
+Estamos creciendo. Buscamos a un Líder de Comunidad que nos apoye a organizar, escribir y escalar el movimiento.
 
 **Como parte de Codeando México, estarás:**
 
 * Creando estrategias de comunicación directa con la comunidad para hackathons, eventos y productos a través de mailing lists, redes sociales y diferentes medios.
-* Diseñando métricas para el escalamiento y medición de impacto para la mejora de cada programa.
+* Diseñando métricas de crecimiento y medición de impacto para la mejora de cada programa.
 * Desarrollar alianzas con nuevos gobiernos, empresas y organizaciones de la sociedad civil interesadas en colaborar.
 * Recibiendo feedback de la comunidad para mejorar la experiencia (online y offline) de los proyectos de Codeando México.
 * Coordinando la Brigada de Codeando México + Code for America y apoyando la creación de nuevas brigadas a nivel local en ciudades de México.
@@ -48,10 +47,9 @@ nuevos servicios públicos con la agilidad y disrupción que caracteriza a la co
 * Experiencia en ambientes de trabajo ágiles y rápidos en donde se toman decisiones día a día.
 * Habilidad de trabajar de manera independiente y de liderar nuevos integrantes del equipo.
 * Entusiasmo por la tecnología, el uso y la creación de ella para fines de impacto cívico.
-* Te apasiona Codeando México y la innovación cívica.
 * Experiencia trabajando con tecnologías colaborativas. Usamos Google Apps, Basecamp, GitHub, Mailchimp, IRC, etc.
-* (Extra) Habilidades de diseño como wireframing y uso de productos de diseño gráfico como Photoshop o GIMP.
-* (Awesome extra) Sabes HTML y CSS.
+* (Plus) Habilidades de diseño como wireframing y uso de productos de diseño gráfico como Photoshop o GIMP.
+* (Plus) Sabes HTML y CSS.
 
 **Sobre la forma de trabajo y beneficios:**
 
@@ -61,4 +59,4 @@ nuevos servicios públicos con la agilidad y disrupción que caracteriza a la co
 
 **Para aplicar:**
 
-Escríbenos a <equipo@codeandomexico.org> con un *one-page-letter* sobre por qué te gustaría formar parte de Codeando México, incluyendo proyectos relevantes que nos quieras platicar y perfil de redes sociales, y tu CV.
+Escríbenos a <equipo@codeandomexico.org> con un *one-page-letter* sobre por qué te gustaría formar parte de Codeando México, incluyendo proyectos relevantes que nos quieras platicar, perfil de redes sociales, y tu CV.
