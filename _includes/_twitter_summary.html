@@ -1,19 +1,28 @@
 <meta name="twitter:card" content="summary">
-<meta name="twitter:site" content="@codeandomexico">
-<meta name="twitter:creator" content="@codeandomexico">
-<meta name="twitter:domain" content="Codeando México">
+<meta name="twitter:site" content="@{{ site.inc.twitter }}">
+
+{% if page.author %}
+<meta name="twitter:creator" content="@{{ page.author.twitter }}">
+{% else %}
+<meta name="twitter:creator" content="@{{ site.inc.twitter }}">
+{% endif %}
+
+<meta name="twitter:domain" content="{{ site.url }}">
+
 {% if page.title %}
 <meta name="twitter:title" content="{{ page.title }}">
 {% else %}
-<meta name="twitter:title" content="{{ site.title }}">
+<meta name="twitter:title" content="{{ site.inc.title }}">
 {% endif %}
+
 {% if page.url %}
 <meta name="twitter:url" content="{{ site.url }}{{ page.url }}">
 {% endif %}
-{% if page.description %}
-<meta name="twitter:description" content="{{ page.description }}">
+
+{% if page.excerpt %}
+<meta name="twitter:description" content="{{ page.excerpt }}">
 {% else %}
-<meta name="twitter:description" content="{{ site.description }}">
+<meta name="twitter:description" content="{{ site.inc.subtitle }}">
 {% endif %}
 {% if page.image %}
 <meta name="twitter:image:src" content="{{ site.url }}/path/to/image/{{ page.image }}">

@@ -1,7 +1,7 @@
 inc:
   # Blog Information
-  title:        "Codeando México Blog"
-  subtitle:     "Historias, ideas y conversaciones de hacking cívico y open data"
+  title:        Codeando México Blog
+  subtitle:     Historias, ideas y conversaciones de hacking cívico y open data
   cover_image:  mexico_city_hd.jpg
   logo:         logo.png
   
