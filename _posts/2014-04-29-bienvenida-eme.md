@@ -11,7 +11,7 @@ author:
   name: Equipo Codeando México
   twitter: codeandomexico
   bio: El Equipo de Tecnología Cívica en México
-  image: authors/eme.jpg
+  image: authors/cmx_icon.jpg
 ---
 
 El hacking cívico y el interés por utilizar tecnología para mejorar gobiernos y a la ciudadanía están demostrando su popularidad entre los mexicanos del siglo XXI, y prueba de ello es que [Codeando México](http://twitter.com/codeandomexico) está creciendo. El Equipo de Tecnología Cívica de México ya está integrado por 8 personas, distribuidas en 3 ciudades de la república.
