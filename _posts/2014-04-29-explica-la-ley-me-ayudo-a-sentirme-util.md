@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Explica.la/ley Me Ayudó a Sentirme Útil
+title: Explica.la/ley: Creando Ciudadanos Más Informados
 subtitle: "La aplicación web creada por Codeando México traduce los textos legislativos a lenguaje accesible para todos."
 cover_image: mexico_city_hd.jpg
 
@@ -28,6 +28,6 @@ Esta historia que les narro probablemente no les sea del todo ajena. Quizá tú 
 
 Constantemente, ocurre [un problema de desfase de realidades](http://codigoespagueti.com/internet/codeando-mexico-lanza-iniciativa-para-explicar-la-leytelecom/) entre nuestros funcionarios y la cotidianidad que se vive en la sociedad civil. El resultado es que los ciudadanos nos sentimos ajenos a lo que sucede en el sector público y nos quedamos con un entendimiento a medias con lo que sucede entre las filas de gobernantes y el trabajo que realizan en representación nuestra.
 
-Es por eso que una iniciativa como [Explica.la/ley](http://explica.la) llega para ofrecer nuevas herramientas y comprensión a todo ciudadano que tenga la posibilidad de tener acceso a Internet. Ésta y otras iniciativas de [Codeando México](http://codeandomexico.org) pretenden facilitar el acceso a información que los ciudadanos puedan utilizar para desarrollar el criterio y la seguridad que sólo otorga esa información explicada en términos sencillos. La información veraz es un derecho de todo ciudadano y con tecnología podemos ponerla al alcance de más personas.
+Es por eso que una iniciativa como [Explica.la/ley](http://explica.la) llega para ofrecer nuevas herramientas y comprensión a todo ciudadano que tenga la posibilidad de tener acceso a Internet. Ésta y otras iniciativas de [Codeando México](http://codeandomexico.org) pretenden facilitar el acceso a información que los ciudadanos puedan utilizar para desarrollar el criterio y la seguridad que sólo otorga esa información explicada en términos sencillos. La información veraz es un derecho de todo ciudadano y con tecnología podemos ponerla al alcance de más personas. La nueva era digital cambia y acerca a los ciudadanos el espacio para conversaciones, debates y para poder compartir ideas. Ésta es la filosofía que tuvimos y tendremos en mente al construir nuevos proyectos en el equipo de *Codeando México*. 
 
-Explica.la/ley [es un proyecto Open Source](https://github.com/CodeandoMexico/cambia-la-ley) y te invitamos a que colabores con nosotros para que hoy y mañana, ningún ciudadano mexicano tenga que sentirse ignorante o tonto al intentar comprender las implicaciones y efectos de leyes que nos afectan a todos.
+Explica.la/ley [es un proyecto Open Source](https://github.com/CodeandoMexico/cambia-la-ley) y te invitamos a que colabores con nosotros para que hoy y mañana, ningún ciudadano mexicano tenga que sentirse ignorante o tonto al intentar comprender las implicaciones y efectos de leyes que nos afectan a todos. Una ciudadanía más informada es una ciudadanía mejor armada para construir cambios positivos.
