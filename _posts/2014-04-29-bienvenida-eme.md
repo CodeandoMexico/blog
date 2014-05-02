@@ -3,7 +3,7 @@ layout: post
 
 title: Llega un Sonorense a Codeando México
 subtitle: "Manuel Morato se une al Equipo como Líder de Estrategia y Comunidad"
-cover_image: Eme1.jpg
+cover_image: Eme1.png
 
 excerpt: "El equipo de Codeando México crece; se une Eme Morato como líder de Estrategia y Comunidad."
 
