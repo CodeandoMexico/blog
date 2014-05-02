@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Explica.la/ley: Creando Ciudadanos Más Informados
+title: "Explica.la/ley: Creando Ciudadanos Más Informados"
 subtitle: "La aplicación web creada por Codeando México traduce los textos legislativos a lenguaje accesible para todos."
 cover_image: mexico_city_hd.jpg
 
