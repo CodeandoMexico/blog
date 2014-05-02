@@ -10,7 +10,6 @@ excerpt: "El equipo de Codeando México crece; se une Eme Morato como líder de 
 author:
   name: Equipo Codeando México
   twitter: codeandomexico
-  bio: El Equipo de Tecnología Cívica en México
   image: authors/cmx_icon.jpg
 ---
 
