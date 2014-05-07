@@ -14,7 +14,7 @@ author:
   image: authors/eme.png
 ---
 
-La semana pasada, como muchos de ustedes pudieron presenciar, se libró una gran batalla no sólo en Twitter y redes sociales, sino también en las calles de la Ciudad de México, entre ciudadanía y gobierno por las propuestas reformas a las Leyes de Telecomunicaciones. Posiblemente identificaron la insignia de la discusión: [#LeyTelecom](https://twitter.com/search?q=%23leytelecom&src=typd).
+Hace un par de semanas, como muchos de ustedes pudieron presenciar, se libró una gran batalla no sólo en Twitter y redes sociales, sino también en las calles de la Ciudad de México, entre ciudadanía y gobierno por las propuestas reformas a las Leyes de Telecomunicaciones. Posiblemente identificaron la insignia de la discusión: [#LeyTelecom](https://twitter.com/search?q=%23leytelecom&src=typd).
 
 Les platico mi historia. Hasta hace unas semanas, yo no tenía idea de la #LeyTelecom, ni de sus implicaciones, ni de por qué debía importarme. Como muchos otros mexicanos y por falta de contexto, fue fácil para mí suponer que esto era tan sólo “show mediático” de la gente que convoca a marchas una vez al mes en contra de [EPN](https://twitter.com/EPN). Por lo mismo, no presté demasiada atención.
 
