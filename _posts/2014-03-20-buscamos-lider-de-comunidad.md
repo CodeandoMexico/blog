@@ -15,6 +15,8 @@ author:
   image: authors/JP.jpg
 ---
 
+**ACTUALIZACIÓN**: Ya tenemos al líder de comunidad - [blogpost](http://blog.codeandomexico.org/2014/04/29/bienvenida-eme/).
+
 Codeando México es una startup cívica que habilita la innovación abierta a través de tecnología y datos abiertos. 
 Conectamos gobiernos y OSCs con creadores y hackers cívicos como plataforma para una nueva era de innovación cívica 
 digital.
