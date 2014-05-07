@@ -3,7 +3,7 @@ layout: post
 
 title: "Explica.la/ley: Creando Ciudadanos Más Informados"
 subtitle: "La aplicación web creada por Codeando México traduce los textos legislativos a lenguaje accesible para todos."
-cover_image: mexico_city_hd.jpg
+cover_image: explicalaley.jpg
 
 excerpt: "Las leyes y textos legislativos, escritos en un idioma técnico y complicado, a veces son incomprensibles para nosotros, los ciudadanos mexicanos. Explica.la/ley nos traduce esos textos a palabras que podamos comprender y asimilar."
 
