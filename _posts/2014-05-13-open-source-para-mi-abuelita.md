@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Open Source Como Para Mi Abuelita
+title: Open Source como para mi abuelita
 subtitle: "El software de código abierto tiene más impacto en tu vida del que creías..."
 cover_image: abuelitas.jpg
 
@@ -11,7 +11,7 @@ author:
   name: Manuel Morato
   twitter: ememorato
   bio: Strategy & Community Lead
-  image: authors/eme.jpg
+  image: authors/eme.png
 ---
 
 La primera vez que escuché hablar de [Open Source](http://es.wikipedia.org/wiki/C%C3%B3digo_abierto), o software de código abierto, fue cuando fui introducido al conocimiento del sistema operativo [Linux](http://es.wikipedia.org/?title=GNU/Linux). Al escuchar la descripción de lo que es Linux, me pareció un tema sumamente interesante, pero desgraciadamente, también uno bastante complicado y difícil de digerir y visualizar para alguien que no entiende tan profundamente de computadoras, como yo. Bastó que echara un vistazo a la interfaz no-gráfica de comandos que caracteriza al sistema operativo de Linux para que pensara: _Esto no es para mí_.
