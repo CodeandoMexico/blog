@@ -3,7 +3,7 @@ layout: post
 
 title: Open Source Para Mi Abuelita
 subtitle: "El software de código abierto tiene más impacto en tu vida del que creías..."
-cover_image: mexico_city_hd.jpg
+cover_image: abuelitas.jpg
 
 excerpt: "Open Source no debería de ser un concepto importante solamente para desarrolladores de software, sino para toda la sociedad mundial del siglo XXI."
 
