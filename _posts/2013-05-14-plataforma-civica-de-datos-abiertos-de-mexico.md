@@ -19,15 +19,15 @@ la disponibilidad de la información sobre las actividades de gobierno, apoyar l
 nuevas tecnologías para impulsar la apertura y la rendición de cuentas.
 
 Siguiendo esta línea, diversos gobiernos en todo el mundo han tomado la iniciativa de hacer disponibles sus datos a través de plataformas 
-públicas, tal es el caso de [Reino Unido](www.data.gov.uk), [Brasil](http://dados.gov.br/ ), [Alemania](https://www.govdata.de/ ), 
+públicas, tal es el caso de [Reino Unido](http://www.data.gov.uk), [Brasil](http://dados.gov.br/ ), [Alemania](https://www.govdata.de/ ), 
 [Buenos Aires](http://data.buenosaires.gob.ar/ ), entre otros; pero no el de México, que aún carece de una plataforma oficial de datos abiertos.
 
-Es así que el día de hoy decidimos acortar la brecha entre el ciudadano y el gobierno con la publicación de [datos.codeandomexico.org](datos.codeandomexico.org), 
+Es así que el día de hoy decidimos acortar la brecha entre el ciudadano y el gobierno con la publicación de [datos.codeandomexico.org](http://datos.codeandomexico.org), 
 una plataforma que facilita a cualquier organización, institución, o dependencia de gobierno, la publicación, el acceso, la búsqueda y depuración de datos abiertos.
 
 Siguiendo nuestra filosofía de colaboración con la comunidad open source y nuestra aversión a reinventar la rueda, decidimos basar nuestra 
-plataforma en el proyecto de código abierto [CKAN](ckan.org), la plataforma utilizada por un gran [número de gobiernos y comunidades alrededor 
-del mundo](ckan.org/instances); sumándonos así, a las miles de horas trabajadas por la comunidad dirigida por [The Open Knowledge Foundation](www.okfn.org ).
+plataforma en el proyecto de código abierto [CKAN](http://ckan.org), la plataforma utilizada por un gran [número de gobiernos y comunidades alrededor 
+del mundo](http://ckan.org/instances); sumándonos así, a las miles de horas trabajadas por la comunidad dirigida por [The Open Knowledge Foundation](http://www.okfn.org).
 
 **¿Qué propone esta plataforma?**
 1. Un espacio autónomo para la publicación y consumo de datos, independiente de cualquier gobierno u organización.
