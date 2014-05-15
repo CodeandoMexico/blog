@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Open Source Para Mi Abuelita
+title: Open Source Como Para Mi Abuelita
 subtitle: "El software de código abierto tiene más impacto en tu vida del que creías..."
 cover_image: abuelitas.jpg
 
@@ -22,6 +22,8 @@ La realidad, sin embargo, es otra. El _Open Source_, hoy más que nunca, represe
 
 Tan sólo el caso de Linux ilustra esto; en palabras de la [Linux Foundation](http://www.linuxfoundation.org/about): "Linux, el día de hoy, es la fuerza que corre los sistemas del 98% de las supercomputadoras del mundo, de casi todos los servidores que alimentan el Internet, de la mayoría de las transacciones financieras a nivel global y decenas de millones de dispositivos móviles y _smartphones_ Android. Linux, en pocas palabras, está en todos lados." Realmente está presente en nuestras vidas, y Linux es tan sólo un ejemplo.
 
+**Open Source = Colaboración**
+
 Según la [Open Source Initiative](http://opensource.org/), el software de código abierto se define como "software que puede ser utilizado, cambiado, y compartido (de manera modificada o no modificada) libremente por cualquier persona." Se le llama código abierto precisamente por que la colaboración y la posibilidad de contribuir por parte de cualquier individuo, así como el código fuente del software, están abiertos para quien sea que esté interesado o interesada.
 
 La revista [_Wired_](http://archive.wired.com/wired/archive/11.11/opensource.html) ha dicho que _Open Source_ "está haciendo por la innovación masiva lo que la línea de producción hizo para la producción masiva". También menciona que el _Open Source_ aprovecha la capacidad distributiva del Internet, partiendo en miles de pedazos el trabajo necesario para realizar un programa de software y aprovechando la inteligencia colectiva de muchas personas. "Funciona como una colonia de hormigas, donde la inteligencia grupal acaba superando a cualquier contribuidor individual." El resultado es que grupos informales de programadores voluntarios pueden acabar compitiendo directamente con grandes empresas. Es una fuerza democratizante hecha posible por la colaboración de gente apasionada en línea.
@@ -29,6 +31,8 @@ La revista [_Wired_](http://archive.wired.com/wired/archive/11.11/opensource.htm
 El movimiento _Open Source_ ha hecho posible que miles de personas alrededor del mundo hayan podido contribuir en la creación de dicho software y en su libre distribución. En otras palabras, ha posibilitado el surgimiento de una cultura descentralizada, desinteresada y apasionada de colaboración en línea. Esta cultura apasionada de colaboración ha traído al mundo productos que han tenido notable influencia en nuestras vidas: Wikipedia, Linux, Mozilla Firefox, Bitcoin, Apache (su aplicación para servidores jugó un rol clave en el inicio de la _World Wide Web_), entre otros.
 
 Lo más interesante de todo es que el movimiento _Open Source_ ha ido más allá del software. El antes citado artículo de _Wired_ también nos habla de cómo la NASA ha utilizado principios de _Open Source_ para crear mapas de los cráteres en la superficie de Marte; de cómo empresas editoras también han aplicado estos principios a colecciones de libros con licencias abiertas y gratuitas; del llamado _Proyecto Gutenberg_ que ha transcrito más de 6,000 libros a formato digital a través de cientos de voluntarios; que incluso hay proyectos en formato _Open Source_ de leyes, de religiones y hasta de cocina. Es definitivamente un arma de colaboración sumamente efectiva cuando se utiliza de la manera correcta.
+
+**Impreso en el ADN de Codeando México**
 
 En [Codeando México](http://codeandomexico.org), el _Open Source_ ocupa un lugar central en nuestra filosofía y metodologías de trabajo. [Todos nuestros proyectos son publicados de manera abierta](https://github.com/codeandomexico) para que cualquier persona interesada pueda tener acceso a ellos y además para que puedan contribuir a los mismos. Asimismo, somos entusiastas de que más gente pueda sumarse a nuestros esfuerzos por fortalecer nuestra ciudadanía por medio de la participación activa y la colaboración en estos proyectos tecnológicos. Esto ha sido posible gracias a la filosofía _Open Source_. Codeando México es mucho más que los 8 integrantes del _core team_; Codeando México somos todos contribuyendo en la creación de tecnología cívica que nos pueda llevar a generar impacto positivo en nuestra sociedad. Eso es verdaderamente el fruto más valioso que podrá generar el _Open Source_ en nuestro trabajo y en nuestras vidas cotidianas.
 
