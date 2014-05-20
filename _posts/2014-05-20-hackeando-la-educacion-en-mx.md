@@ -24,7 +24,7 @@ Fue así como los mexicanos, tal como lo puso en evidencia la [explosión mediá
 * Que en México existen más de mil “escuelas fantasmas” que en total nos cuestan más de $343 millones de pesos cada mes
 * Que 7,183 maestros sindicalizados ganan más de $100,000 pesos al mes, de los cuales 70 ganan más que Enrique Peña Nieto ($193,458 pesos mensuales)
 * Que en el país hay 536 telesecundarias que no tienen luz eléctrica, imposibilitando a 1,436 maestros de utilizar su principal herramienta de trabajo.
-* Y otros numerosos datos similarmente reveladores. 
+* Y [otros numerosos datos](http://imco.org.mx/capital_humano/mapa-del-magisterio-de-educacion-basica-en-mexico/) similarmente reveladores. 
 
 Antes de poder proponer y construir soluciones, es necesaria la transparencia, la cual permite realmente entender las raíces del problema. Dar un paso en esa dirección fue justamente lo que logró el IMCO con este esfuerzo. La pregunta que buscaremos responder con acciones [Codeando México](http://codeandomexico.org) y otros como el IMCO haciendo equipo en los próximos meses: _¿cómo hackeamos la educación pública en México?_
 
