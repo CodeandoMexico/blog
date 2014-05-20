@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Hackeando la Educación Pública en Mexico
+title: Hackeando la Educación Pública en México
 subtitle: "Transparentar la situación es el primer paso. Ahora sigue proponer y accionar."
 cover_image: mejoratuescuela1.png
 
@@ -11,8 +11,10 @@ author:
   name: Manuel Morato
   twitter: ememorato
   bio: Strategy & Community Lead
-  image: authors/eme.jpg
+  image: authors/eme.png
 ---
+
+***Este post fue escrito en conjunto con [Juan Pablo Escobar](http://twitter.com/juanpabloe), Diretor de Codeando México***
 
 El miércoles 14 de mayo, el [Instituto Mexicano para la Competitividad (IMCO)](http://imco.org.mx/home/), a través del proyecto [Mejora Tu Escuela](http://www.mejoratuescuela.org/), anunció la publicación de un [mapa del magisterio de educación básica](http://blog.mejoratuescuela.org/mapa-del-magisterio-de-educacion-basica-en-mexico/) en México. Este estudio consistió en [un análisis minucioso de datos públicos de la Secretaría de Educación Pública (SEP)](http://imco.org.mx/wp-content/uploads/2014/05/20140514_MapaMagisterioMexico_Presentacion.pdf), los cuales anteriormente se encontraban disponibles en línea en formatos que no son sencillos ni amigables para el uso de la población en general, pero que fueron ahora recopilados, organizados y abiertos por el IMCO.
 
