@@ -3,6 +3,7 @@ layout: post
 
 title: ¿Por qué me uní a Codeando México?
 subtitle: "Mi camino de lo comercial a la ciudadanía"
+cover_image: dataexpmty.jpg
 
 excerpt: "Mi camino de lo comercial a la ciudadanía"
 
