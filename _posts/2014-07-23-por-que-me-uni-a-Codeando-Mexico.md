@@ -15,7 +15,7 @@ author:
 ---
 
 Durante las primeras horas de uno de esos ***lunes***, durante mayo del año pasado,  algo había salido mal en mi trabajo: miles 
-de clientes se estaban quejando por un problema que era mi culpa. Desde las nueve la mañana de ese lunes hasta las 10 de 
+de clientes se estaban quejando por un problema que era mi culpa. Desde las 9 de la mañana de ese lunes hasta las 10 de 
 la noche del martes siguiente, dediqué todas mis fuerzas, intelecto y tiempo en corregir aquel catastrófico error. Y después 
 de esas maratónicas horas de trabajo me di cuenta de que trabajar en una de las empresas más importantes de tecnología, 
 haciendo software para que la gente pueda ver las series de televisión lo más pronto posible, simplemente no era lo mío.
@@ -29,7 +29,7 @@ Como Program Manager pasé mucho tiempo pensando en las necesidades y sentimient
 con diversos propósitos: en compiladores, que tienen como audiencia base a los desarrolladores, hasta servicios de video, 
 que son para cualquier persona que guste de ver películas y series de televisión. Ambas audiencias están constituidas por 
 personas a las que investigué con profundidad para descubrir sus necesidades y  cómo podrían satisfacerse con tecnología. 
-Es un trabajo agotador, pero al final me conecté de manera perfecta con los usuario, eran como un amigo más para mi.
+Es un trabajo agotador, pero al final me conecté de manera perfecta con los usuarios, eran como un amigo más para mi.
 
 He de confesar que siempre he sido curiosa de los asuntos sociales. En mis años universitarios, disfrutaba las clases de 
 ciudadanía, ética o filosofía, que tanto molestaban a otros ingenieros. Leo y escucho noticieros todos los días e intento 
@@ -47,6 +47,6 @@ Queremos mejorar el nivel de vida de las personas y las ciudades y creemos firme
 lograrlo. No sólo hacemos software: somos un equipo que está comprometido con crear una comunidad y movimiento alrededor 
 de nuestros valores.
 
-En está nueva etapa de mi vida he descubierto que para hacer política o ciudad no tienes que ser politólogo o economista, 
+En esta nueva etapa de mi vida he descubierto que para hacer política o ciudad no tienes que ser politólogo o economista, 
 también puedes participar como ingeniero.  En aquella madrugada del 2013 no imaginé que podría encontrar un lugar para 
 ayudar a crear más ciudadanos con tecnología, pero aquí estoy y desde aquí escribo.
