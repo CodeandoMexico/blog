@@ -2,15 +2,15 @@
 layout: post
 
 title: ¿Por qué me uní a Codeando México?
-subtitle: "Mi camino del entretenimiento a la ciudadanía"
-cover_image: mexico_city_hd.jpg
+subtitle: "Mi camino de lo comercial a la ciudadanía"
 
-excerpt: "Mi camino del entretenimiento a la ciudadanía"
+excerpt: "Mi camino de lo comercial a la ciudadanía"
 
 author:
   name: Paulina Bustos Arellano
   twitter: paulinabustosa
   bio: Operaciones Codeando México
+  image: authors/pau.jpeg
 ---
 
 Durante las primeras horas de uno de esos ***lunes***, durante mayo del año pasado,  algo había salido mal en mi trabajo: miles 
@@ -40,7 +40,7 @@ desarrolladores u otro tipo de usuario. Quería dedicar 24/7/365 de mi tiempo a 
 necesidades, problemas y cómo resolverlos. Un mes después renuncié a mi trabajo y después de pláticas, hackathons y 
 búsquedas personales me uní a Codeando México en noviembre del mismo año.
 
-En Codeando México resolvemos problemas sociales con tecnología. Somos entusiastas, ingenieros y profesionales 
+En **Codeando México** resolvemos problemas sociales con tecnología. Somos entusiastas, ingenieros y profesionales 
 obsesionados por mejorar la manera en que los ciudadanos y el gobierno interactúan para crear una sociedad cívica digital. 
 Queremos mejorar el nivel de vida de las personas y las ciudades y creemos firmemente que la tecnología es un medio para 
 lograrlo. No sólo hacemos software: somos un equipo que está comprometido con crear una comunidad y movimiento alrededor 
