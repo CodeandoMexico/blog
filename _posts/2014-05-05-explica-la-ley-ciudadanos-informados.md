@@ -3,7 +3,7 @@ layout: post
 
 title: "Explica.la/ley: Creando Ciudadanos Más Informados"
 subtitle: "La aplicación web creada por Codeando México traduce los textos legislativos a lenguaje accesible para todos."
-cover_image: mexico_city_hd.jpg
+cover_image: explicalaley.jpg
 
 excerpt: "Las leyes y textos legislativos, escritos en un idioma técnico y complicado, a veces son incomprensibles para nosotros, los ciudadanos mexicanos. Explica.la/ley nos traduce esos textos a palabras que podamos comprender y asimilar."
 
@@ -14,7 +14,7 @@ author:
   image: authors/eme.png
 ---
 
-La semana pasada, como muchos de ustedes pudieron presenciar, se libró una gran batalla no sólo en Twitter y redes sociales, sino también en las calles de la Ciudad de México, entre ciudadanía y gobierno por las propuestas reformas a las Leyes de Telecomunicaciones. Posiblemente identificaron la insignia de la discusión: [#LeyTelecom](https://twitter.com/search?q=%23leytelecom&src=typd).
+Hace un par de semanas, como muchos de ustedes pudieron presenciar, se libró una gran batalla no sólo en Twitter y redes sociales, sino también en las calles de la Ciudad de México, entre ciudadanía y gobierno por las propuestas reformas a las Leyes de Telecomunicaciones. Posiblemente identificaron la insignia de la discusión: [#LeyTelecom](https://twitter.com/search?q=%23leytelecom&src=typd).
 
 Les platico mi historia. Hasta hace unas semanas, yo no tenía idea de la #LeyTelecom, ni de sus implicaciones, ni de por qué debía importarme. Como muchos otros mexicanos y por falta de contexto, fue fácil para mí suponer que esto era tan sólo “show mediático” de la gente que convoca a marchas una vez al mes en contra de [EPN](https://twitter.com/EPN). Por lo mismo, no presté demasiada atención.
 
