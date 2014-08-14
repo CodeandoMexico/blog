@@ -15,6 +15,8 @@ author:
 
 [Recientemente les platicamos sobre la gran importancia que tienen los Retos Públicos](http://blog.codeandomexico.org/2014/08/11/retos-de-gobierno-para-la-banda/) para el proceso de generar innovación cívica en México. Los Retos Públicos abren el acceso a emprendedores y desarrolladores con empresas más pequeñas (PYMES) para que puedan competir por un contrato de software del gobierno. 
 
+<iframe width="560" height="315" src="//www.youtube.com/embed/RFa1rgBKPXE" frameborder="0"> </iframe>
+</br>
 Hoy por la mañana, la Coordinación de la Estrategia Digital Nacional, junto con [Codeando México](http://twitter.com/codeandomexico), el INADEM y titulares de dependencias de gobierno como Protección Civil y el SAT, hicieron el lanzamiento oficial en la Semana del Emprendedor de [6 nuevos Retos Públicos](http://retos.gob.mx). Al igual que el [#RetoAlertaMx](http://retos.gob.mx/organizaciones/3/retos/1-reto-alerta-mx), cada reto corresponde a alguna dependencia de gobierno específica y al desarrollo de una aplicación de software que resuelve un problema para las mismas. Los 6 nuevos retos, con sus respectivas dependencias, son los siguientes:
 
 * [#RetoGobMx](http://retos.gob.mx/organizaciones/11/retos/8-retogobmx) – Secretaría de la Función Pública (SFP) – Desarrollar la aplicación móvil del portal ciudadano [gob.mx](http://gob.mx)
