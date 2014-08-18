@@ -3,7 +3,7 @@ layout: post
 
 title: "Más Retos de Gobierno para La Banda"
 subtitle: "Vienen más Retos Públicos para los hackers cívicos de México."
-cover_image: retoSAT.jpg
+cover_image: retoSAT.JPG
 
 excerpt: "Por mucho tiempo en México, los contratos de gobierno han sido ganados en modelos de licitaciones públicas por las mismas empresas gigantescas de siempre. Es hora de abrirlos a las empresas más capaces, sin importar su tamaño o relaciones."
 
