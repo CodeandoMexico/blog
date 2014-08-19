@@ -22,7 +22,7 @@ Aunado a esto, la mayoría de sus proyectos son desarrollados por una minoría d
 
 ## ¿Qué son los Retos Públicos?
 
-Los Retos Públicos son una iniciativa que lanzamos en colaboración con la [Coordinación de la Estrategia Digital Nacional](http://www.presidencia.gob.mx/edn/) (CEDN) y consisten en convocatorias abiertas para que empresas de desarrollo de software de tamaño mediano / pequeño (facturación menor de $4,000,000 de MXN) tengan la posibilidad, basada en mérito y competencia, de ganarse el contrato de gobierno para resolver un problema a gran escala utilizando tecnología.
+Los Retos Públicos son una iniciativa que lanzamos en colaboración con la [Coordinación de la Estrategia Digital Nacional](http://www.presidencia.gob.mx/edn/) (CEDN) y el Proyecto de Política Económica de México de USAID, y consisten en convocatorias abiertas para que empresas de desarrollo de software de tamaño mediano / pequeño (facturación menor de $4,000,000 de MXN) tengan la posibilidad, basada en mérito y competencia, de ganarse el contrato de gobierno para resolver un problema a gran escala utilizando tecnología.
 
 ![](/images/retos.jpg)
 
