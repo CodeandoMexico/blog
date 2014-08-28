@@ -6,6 +6,8 @@ subtitle: "Colaboración para abrir datos"
 
 excerpt: "Cortamos el listón del Centro de Apertura de Datos en apertura.datamx.io"
 
+cover_image: cad.jpg
+
 author:
   name: Equipo Codeando México
   twitter: codeandomexico
@@ -44,3 +46,6 @@ colaboración abierta para la apertura de datos.
 
 A partir de hoy, vamos a utilizar el Centro de Apertura para colaborar en la apertura de los datos públicos más 
 importantes del país.
+
+
+Imagen: [Flickr/mkandlez](https://www.flickr.com/photos/25541021@N00/4339699005/in/photolist-7Bu6jD-71gXMS-7DuGD1-6M4m85-a7aAYR-795x34-7DuGvf-7UYRSK-9PWtfW-9buRe8-7Z6sEG-7Pzffb-7bqf8N-6We6pT-7SRuLD-81mysE-6vMAqd-7WshqZ-7vWLfR-7PvgcZ-a5MvzB-7FaghR-8c54MP-7fn1Ft-7JtFDX-7GJwyN-79TsSr-7SUM47-8H6rvU-7LANhk-7BxUMu-7Bu62r-7V35Fd-7LANig-8GTB1f-8qNndW-7DuGyE-7LANdn-7Bu6AM-7Bu6Gt-7BxUwm-6PJiCX-7BxUSC-7LLxQH--9Cz3Z2-e4H388-7kneek-7ytddM-7DqTEi)
