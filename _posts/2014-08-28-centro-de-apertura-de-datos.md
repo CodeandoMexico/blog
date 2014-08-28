@@ -4,7 +4,7 @@ layout: post
 title: Centro de Apertura de Datos
 subtitle: "Colaboración para abrir datos"
 
-excerpt: "Cortamos el liston del Centro de Apertura de Datos en apertura.datamx.io"
+excerpt: "Cortamos el listón del Centro de Apertura de Datos en apertura.datamx.io"
 
 author:
   name: Equipo Codeando México
