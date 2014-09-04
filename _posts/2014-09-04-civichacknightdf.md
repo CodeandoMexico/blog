@@ -5,7 +5,7 @@ title: "#CivicHackNightDF – Primera Noche de Hackeo Cívico Capitalina"
 subtitle: "Primer evento presencial de la comunidad de innovación cívica en el DF."
 cover_image: chn.jpg
 
-excerpt: "La #CivicHackNightDF fue un evento para reunir a la comunidad de entusiastas e interesad@s en hacking e innovación cívica en la Ciudad de México. La idea es que no sólo organizaciones pequeñas trabajen para traer innovación a la ciudadanía, sino que toda la sociedad civil participe.3"
+excerpt: "Hackers cívicos que utilizan la web como plataforma de participación local y servicio a la comunidad"
 
 author:
   name: Equipo Codeando México
