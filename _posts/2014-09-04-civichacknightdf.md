@@ -3,9 +3,10 @@ layout: post
 
 title: "#CivicHackNightDF – Primera Noche de Hackeo Cívico Capitalina"
 subtitle: "Primer evento presencial de la comunidad de innovación cívica en el DF."
-cover_image: chn.jpg
+cover_image: chn.JPG
 
-excerpt: "Hackers cívicos que utilizan la web como plataforma de participación local y servicio a la comunidad"
+excerpt: "Hackers cívicos que utilizan la web como plataforma de participación
+local y servicio a la comunidad"
 
 author:
   name: Equipo Codeando México
