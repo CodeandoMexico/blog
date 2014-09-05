@@ -51,3 +51,9 @@ Buscamos enviar un mensaje claro a la sociedad: el gobierno no siempre tendrá l
 Se necesitan infografías, visualizaciones de datos, trabajos periodísticos y una serie de historias que generen un cambio positivo tangible: un cuerpo académico de maestros que aprovechen la tecnología para mejorar su relación dentro y fuera de clase con estudiantes; padres de familia informados con opciones, costos y oferta educativa de manera actualizada; escuelas que compiten por mejorar sus instalaciones y programas; estudiantes con mejores oportunidades de estudio, y muchos más. Realmente podemos llegar hasta donde nuestra creatividad nos permita.
 
 IMCO y Codeando México estamos uniendo fuerzas para poder _hackear_ la educación y así facilitar herramientas para mejorarla, pero necesitamos más manos y muchos _hackers cívicos_ que puedan unirse a este esfuerzo en el futuro cercano. Si te interesa participar, escríbenos a **equipo@codeandomexico.org**.
+
+
+_Edit: Si deseas consultar los datos que el IMCO liberó sobre sus infografías puedes verlos en [Datamx.io](http://datamx.io)_
+
+
+<iframe height="470" scrolling="no" src="http://datamx.io/dataset/censo-educativo-sep/widget" width="398"></iframe>
