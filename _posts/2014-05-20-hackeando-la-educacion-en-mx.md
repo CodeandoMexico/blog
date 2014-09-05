@@ -56,4 +56,4 @@ IMCO y Codeando México estamos uniendo fuerzas para poder _hackear_ la educaci�
 _Edit: Si deseas consultar los datos que el IMCO liberó sobre sus infografías puedes verlos en [Datamx.io](http://datamx.io)_
 
 
-<iframe height="470" scrolling="no" src="http://datamx.io/dataset/censo-educativo-sep/widget" width="398"></iframe>
+<iframe height="470" width="398" src="http://datamx.io/dataset/censo-educativo-sep/widget" ></iframe>
