@@ -22,9 +22,13 @@ Por ser esto un problema tan gordo en nuestro país, Codeando México lanza un n
 Los y las interesadas en el reto tienen como fecha límite hasta el 30 de septiembre de este año a las 23:59 horas para formar un equipo de 2 a 5 personas, mandar un prototipo funcional y así concursar para pasar a la etapa final del reto. Es importante leer con detenimiento las bases de la [convocatoria del reto](http://ifai.codeandomexico.org).
 
 **¿Por qué entrarle al reto?**
+
 Es la primera ocasión que el IFAI se acerca a la comunidad creativa por esta vía. Siendo una institución con un enorme potencial de apertura de datos públicos, esta es una gran oportunidad para que miembros de la sociedad civil mexicana puedan formar parte del proceso de crear y consolidar una cultura de innovación cívica a través de datos abiertos en el país. 
 
 **¿Por qué un app para esto?**
 <div class="full zoomable"><img src="/images/posts/old_school_telex.jpg"></div>
+{% highlight yaml %}
+imagen: funcionarios reportando sus viajes actualmente
+{% endhighlight %}
 
 Con esta herramienta, se dará un paso para lograr una rendición de cuentas por parte de funcionarios públicos al realizar viajes de trabajo. Al dar este paso, se logrará de manera simultánea dar otro paso para combatir y disminuir la corrupción en nuestro país. Para cambiar mentalidades, tenemos que cambiar las herramientas. Vamos a ayudar al IFAI y a distintas instituciones del país a erradicar el uso _old-school_ de PDFs y reportes en Excel. Esta aplicación de código abierto puede replicarse a cientos de dependencias oficiales a nivel nacional. 
