@@ -11,6 +11,8 @@ author:
   bio: Co-fundador
   twitter: rodowi
   image: authors/rod.jpeg
+
+redirect_from: /post/50448759343/la-plataforma-civica-de-datos-abiertos-de-mexico/
 ---
 
 En septiembre de 2011, México [se unió](http://www.opengovpartnership.org/countries/mexico) a la iniciativa “The Open Government Partnership”, 

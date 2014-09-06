@@ -11,6 +11,8 @@ author:
   twitter: rodowi
   bio: Co-fundador
   image: authors/rod.jpeg
+
+redirect_from: /post/50042180944/hackeando-el-hackathon/
 ---
 
 A lo largo de los últimos meses hemos estado presentes en varios [hackathons](http://en.wikipedia.org/wiki/Hackathon) alrededor de México como organizadores, mentores y jueces. Lo que nos ha llevado a observar varios [anti-patrones](http://en.wikipedia.org/wiki/Anti-pattern) que los participantes repiten en cada evento, y que podríamos modificar para tener mejores resultados.
