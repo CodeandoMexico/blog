@@ -1,9 +1,9 @@
 ---
 layout: post
 
-title: Bienvenida la ciencia de datos al hacking civico.
-subtitle: Ciencia de Datos
-cover_image: /posts/ds/banner_1.png
+title: "Bienvenida la ciencia de datos al hacking civico."
+subtitle: "Codeando México le apuesta a la ciencia de datos"
+cover_image: /posts/ds/banner_1.jpg
 
 excerpt: "Codeando México le entra al análisis basado en datos"
 
