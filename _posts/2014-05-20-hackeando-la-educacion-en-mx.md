@@ -52,8 +52,6 @@ Se necesitan infografías, visualizaciones de datos, trabajos periodísticos y u
 
 IMCO y Codeando México estamos uniendo fuerzas para poder _hackear_ la educación y así facilitar herramientas para mejorarla, pero necesitamos más manos y muchos _hackers cívicos_ que puedan unirse a este esfuerzo en el futuro cercano. Si te interesa participar, escríbenos a **equipo@codeandomexico.org**.
 
-
 _Edit: Si deseas consultar los datos que el IMCO liberó sobre sus infografías puedes verlos en [Datamx.io](http://datamx.io)_
 
-
-<iframe height="470" width="398" src="http://datamx.io/dataset/censo-educativo-sep/widget" ></iframe>
+<iframe height="470" width="398" src="http://datamx.io/dataset/censo-educativo-sep/widget" >unwantedtext</iframe>
