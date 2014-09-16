@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: "Se aproximan AbreLatam y ConDatos al DF"
+title: Se aproximan AbreLatam y ConDatos al DF
 subtitle: "México se convierte en el epicentro de conversaciones de Open Data a nivel América Latina."
 cover_image: condatos.png
 
@@ -21,12 +21,13 @@ Acto seguido, el 1 y 2 de Octubre se llevará a cabo [ConDatos](http://condatos.
 
 [Rodolfo Wilhelmy](http://twitter.com/rodowi), quien asistió como co-fundador de Codeando México a ambos eventos el año pasado, [detalló en este post](http://blog.codeandomexico.org/2013/07/08/abrelatam-2013/) lo que fue la experiencia de formar parte de esas conversaciones de AbreLatam en Uruguay el año pasado. Toda la dinámica de desconferencia, con toda la gente involucrada presente, fue realmente un formato que permitió un intercambio valioso y rico de ideas, puntos de vista y lecciones aprendidas. 
 
-** Reunir a toda la banda bajo el mismo techo **
+**Reunir a toda la banda bajo el mismo techo**
 
 A lo largo del vasto territorio de América Latina, ya se están llevando a cabo numerosas iniciativas relacionadas con datos abiertos que comienzan a aportar una cantidad tremenda de valor a nuestras sociedades y que están acelerando la innovación cívica en nuestros países. La importancia de eventos regionales como éstos radica en que permitirá que se junten bajo un mismo techo todas las personas y organizaciones detrás de estas iniciativas. Esto permitirá un intenso intercambio de ideas, de retos/oportunidades, y de estrategias que permitirán fortalecer los actuales esfuerzos y además abrir la puerta a la colaboración regional entre todos estos grupos.
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/Ood6ni321to" frameborder="0"></iframe>
-</br>
+<iframe width="560" height="315" src="//www.youtube.com/embed/Ood6ni321to" frameborder="0">unwantedtext</iframe>
+
+<br>
 La unión hace la fuerza, y en una región con tantos lazos y semejanzas culturales como lo es América Latina, la colaboración multinacional entre gobiernos, organizaciones e individuos debería darse como algo natural. Eventos regionales como éstos sirven justamente para eso, para que puedan darse esas conversaciones e intercambios que puedan desencadenar en nuevos proyectos y visiones compartidas.
 
 Dicen que cuando hay magia presente, no se necesitan trucos. Justo eso es lo que va a pasar en AbreLatam y ConDatos en menos de un mes: se van a juntar tantas organizaciones y personas apasionadas por datos abiertos que seguramente va a ocurrir magia allá adentro. 
