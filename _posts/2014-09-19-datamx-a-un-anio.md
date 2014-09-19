@@ -26,14 +26,14 @@ Un ejemplo que vivimos, fue con el tema de educación. En agosto de este año, s
 
 **Las OSCs como semillero de datos importantes para el país**
 
-La apertura de datos generados por el gobierno es importante, pero también lo es mencionar otros organismos de la sociedad que deben tener como meta la apertura de datos, uno de ellos son las organizaciones de la sociedad civil. Las OSCs realizan investigaciones y ejercicios que beneficiarían a la sociedad de ser abiertos.
+La apertura de datos generados por el gobierno es importante, pero también lo es mencionar otros organismos de la sociedad que deben tener como meta la apertura de datos; uno de ellos son las organizaciones de la sociedad civil. Las OSCs realizan investigaciones y ejercicios que beneficiarían a la sociedad de ser abiertos.
 
-Por ejemplo, [Bosque Urbano México](http://bosqueurbanomexico.org), organización dedicada a generar un inventario de árboles en las ciudades, a través de la participación ciudadana, genera miles de datos sobre los árboles de una región.  Estos datos son importantísimos para la medición y creación de ecosistemas ecológicos saludables. Cuando abrimos sus datos para una Civic Hack Night en Monterrey, se generó una conversación muy interesante sobre cómo utilizarlos para resolver problemas de la comunidad. Este ejercicio genera valor para la ciudad y fomenta la participación ciudadana. 
+Por ejemplo, [Bosque Urbano México](http://bosqueurbanomexico.org), organización dedicada a generar un inventario de árboles en las ciudades, a través de la participación ciudadana, genera miles de datos sobre los árboles de una región.  Estos datos son importantísimos para la medición y creación de ecosistemas ecológicos saludables. Cuando abrimos sus datos para una [Civic Hack Night](http://blog.codeandomexico.org/2014/09/04/civichacknightdf/) en Monterrey, se generó una conversación muy interesante sobre cómo utilizarlos para resolver problemas de la comunidad. Este ejercicio genera valor para la ciudad y fomenta la participación ciudadana. 
 
 
 **De los datos abiertos al emprendimiento**
 
-En Agosto de este año asistimos a la semana del emprendedor en la Ciudad de México. Estuvimos en el escenario de Emprendedores Cívicos en donde tuvimos la oportunidad de presentar varios proyectos de Codeando México, entre ellos datamx. La mayoría de la gente que se nos acercó era de personas que buscan emprender en México.
+En Agosto de este año asistimos a la Semana del Emprendedor en la Ciudad de México. Estuvimos en el escenario de Emprendedores Cívicos en donde tuvimos la oportunidad de presentar varios proyectos de Codeando México, entre ellos datamx. La mayoría de la gente que se nos acercó eran personas que buscan emprender en México.
 
 Fue una sorpresa darnos cuenta que para esta audiencia era fácil entender el potencial de datamx para su negocio. Muchísimas personas se acercaron a preguntar si en datamx podrían encontrar datos de dónde hay personas con ciertas características (discapacidad, edades, clase social, etc). Estos emprendedores reconocen a datamx como un lugar en dónde se puede medir el tamaño de un mercado o el potencial económico de una ciudad. 
 
@@ -41,9 +41,9 @@ Fue una sorpresa darnos cuenta que para esta audiencia era fácil entender el po
 
 Un hacker cívico tiene ganas de mejorar el país usando sus habilidades técnicas. Es común que estos hackers tengan conocimientos de software, diseño, arquitectura, urbanismo, etc. De lo  que normalmente no conocen con cercanía es de los problemas sociales más relevantes del país. Es por esto que es importante proporcionar guías a los hackers para entender el contexto de los datos que tienen y los problemas que pueden solucionar.
 
-Como [comunidad de Datos Abiertos](http://opendata.mx), creemos que además de Datos Abiertos se deben crear  mecanismos para la definición de problemas sociales. Como lo son los el esquema de las plataformas de [Retos](http://codeandomexico.org/retos). En estas plataformas es posible que Organizaciones de la Sociedad Civil e instancias de gobierno definan problemas y soluciones que guían a hackers cívicos a crear soluciones viables para la sociedad. 
+Como [comunidad de Datos Abiertos](http://opendata.mx), creemos que además de Datos Abiertos se deben crear  mecanismos para la definición de problemas sociales. Un ejemplo es el esquema de las plataformas de [Retos](http://codeandomexico.org/retos). En estas plataformas es posible que Organizaciones de la Sociedad Civil e instancias de gobierno definan problemas y soluciones que guían a hackers cívicos a crear soluciones viables para la sociedad. 
 
-Cada semana [datamx](http://datamx.io) lanza una nueva funcionalidad, programa o tutorial para que hacker cívicos, OSCs, periodistas y emprendedores aprovechen los datos abiertos desde la sociedad civil para la comunidad. La última fue el [Centro de Apertura de Datos] (http://apertura.datamx.io), en donde la misma comunidad decidirá qué datos deben ser los próximos en abrirse. 
+Cada semana [datamx](http://datamx.io) lanza una nueva funcionalidad, programa o tutorial para que hackers cívicos, OSCs, periodistas y emprendedores aprovechen los datos abiertos desde la sociedad civil para la comunidad. La última fue el [Centro de Apertura de Datos] (http://apertura.datamx.io), en donde la misma comunidad decidirá qué datos deben ser los próximos en abrirse. 
 
 Esperamos sus comentarios en [@datamx_io](http://twitter.com/datamx_io) y los esperamos [@ConDatos](http://condatos.org) y [@AbreLATAM](http://abrelatam.org) para seguir la conversación de Datos Abiertos en México.
 
