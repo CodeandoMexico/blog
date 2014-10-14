@@ -1,9 +1,9 @@
 ---
 layout: post
 
-title: El Open Data en AbreLATAM 2014
-subtitle: "Una reseña de las mesas en las que participamos."
-excerpt: "Una reseña de las mesas en las que participamos."
+title: Una reseña de Open Data en AbreLATAM 2014
+subtitle: "Una reseña de las mesas en las que participé."
+excerpt: "Una reseña de las mesas en las que participé."
 cover_image: biblioteca_de_mexico.jpg
 
 author:
