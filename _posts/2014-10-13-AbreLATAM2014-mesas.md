@@ -57,7 +57,7 @@ es adecuado para ser importado a cualquier programa, libre o propietario, para h
 
 * Acompañar nuestros datos con un diccionario de datos es muy adecuado sobre todo para explicar las variables y dar
 algunos ejemplos sobre cómo usar esos datos o sobre cómo fueron usados en esta base de datos. Vean un ejemplo en el
-[Dataset del reto viajes transparentes del IFAI](http://datamx.io/dataset/viajes-de-trabajo-de-los-servidores-publicos-del-ifai)
+[Dataset del reto viajes transparentes del IFAI](http://datamx.io/dataset/viajes-de-trabajo-de-los-servidores-publicos-del-ifai).
 
 * La codificación de caracteres en los datos también deben de ser estándar e interoperable entre sistemas operativos.
 
