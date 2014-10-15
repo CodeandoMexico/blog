@@ -33,6 +33,6 @@ Y aprender a utilizar la tecnología con un enfoque cívico y llevar los proceso
 
 Es un nuevo ciclo en el que tengo la oportunidad de trabajar con un grupo de gente en la que creo y a quienes admiro. En donde aquellos que creen en ese cambio están verdaderamente involucrados con una comunidad y donde el aprendizaje es cosa de todos los días.
 
-Esta entrada es, pues, no sólo mi texto de emoción por lo que viene, sino una invitación abierta a cualquiera que decida que ese cambio es posible.
+Esta entrada es no sólo un texto para contar lo emocionado que estoy por lo que viene, sino una invitación abierta a cualquiera que decida que ese cambio es posible y quiera colaborar.
 
-¡Comenzamos!
+Sin más que agregar: ¡Comenzamos!
