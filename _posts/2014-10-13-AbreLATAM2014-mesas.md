@@ -15,7 +15,7 @@ author:
 ---
 
 Hace apenas un par de días tuvo lugar AbreLATAM 2014, el 30 de Septiembre del año en curso. Ya habíamos tenido
-la oportunidad de participar en el evento que ocurrió en Uruguay durante 2013 y 9 de 10 personas del equipo de
+la oportunidad de participar en el evento que ocurrió en Uruguay durante 2013. Este año, 9 de 10 personas del equipo de
 Codeando México estuvimos presentes para colaborar.
 
 
@@ -41,8 +41,8 @@ había pensado así originalmente. Acompañé la discusión técnica en Open Dat
 notas para después compartirlas, las discusiones se concentraron en:
 
 * Formatos y estándares de datos abiertos.
-* Cuando usar APIs y cuando publicar bases de datos abiertos.
-* ¿Cómo podemos integrar un repositorio de datos abiertos en América Latina?.
+* Cuándo usar APIs y cuando publicar bases de datos abiertos.
+* ¿Cómo podemos integrar un repositorio de datos abiertos en América Latina?
 
 
 ***Estándares y formatos de datos abiertos***
@@ -78,7 +78,7 @@ la Unión Europea
 
 
 En términos generales y no muy distinto al contexto mexicano las organizaciones están preocupadas sobre cómo podemos
-ayudar a que los gobiernos publiquen más datos y a que las ONG los  utilicen data de manera activa para tomar decisiones
+ayudar a que los gobiernos publiquen más datos y a que las ONG los  utilicen de manera activa para tomar decisiones
 e informar a la ciudadanía sobre problemas específicos. En general creo que hubo un concenso muy evidente en esta edición
 sobre el uso de Datos Abiertos en periodismo y es que las visualizaciones de datos abiertos son una de las vías más
 efectivas de comunicación.
@@ -110,7 +110,7 @@ ocurrió alrededor de los casos de uso sobre cuando utilizar una interfaz de pro
 una base en formatos abiertos. El sueño de todo programador y la tendencia del internet de las cosas es que todo tenga una API,
 sin embargo es mucho más costoso que la sola publicación de los datos en un portal. Además, concluimos que en algunas ocasiones
 las bases de datos sí necesitan API, como cuando los datos se deben de publicar con una periodicidad diaria o aún más frecuente,
-es decir necesitamos una API cuando un dato debe ser inmediato o cuando facilita tareas periodicas a quien publica. Sin embargo,
+es decir necesitamos una API cuando un dato debe ser inmediato o cuando facilita tareas periódicas a quien publica. Sin embargo,
 hay ciertos tipos de datos que aunque no sean actualizados de manera periódica o muy frecuente también es importante que estén
 en formato de API, un caso de uso muy particular pueden ser datos de alerta sobre emergencias o datos que afecten la seguridad
 de los ciudadanos.
@@ -119,7 +119,7 @@ Yendo un poco mas hacia la función de contraloria o testigo de los datos las AP
 abiertos. Los ciudadanos deben de poder bajar una "foto" del estado actual de la base de datos, en México se comentó hay bases de datos
 que cambian de la noche a la mañana.
 
-Como conclusión personal de AbreLATAM 2014 me quedo con que hay que llevar los datos a la ciudadanía con comunicación efectiva.
+Como conclusión personal de AbreLATAM 2014, me quedo con que hay que llevar los datos a la ciudadanía con comunicación efectiva.
 No vale la pena duplicar esfuerzos, ni aplicaciones. Es inmenso el potencial de cooperación entre latinoamericanos.
 Además Codeando México seguirá teniendo un rol muy activo y propositivo  para que el software que use activamente datos suceda en la región.
 
