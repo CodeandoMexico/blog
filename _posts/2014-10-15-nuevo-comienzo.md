@@ -11,7 +11,7 @@ author:
   name: Oscar Montiel
   twitter: tlacoyodefrijol
   bio: El nuevo
-  image: authors/oscar.jpeg
+  image: authors/oscar.jpg
 
 ---
 
