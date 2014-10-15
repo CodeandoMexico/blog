@@ -24,19 +24,19 @@ Codeando México estuvimos presentes para colaborar.
 
 Personalmente me gustan mucho los seminarios y desconferencias, pues son espacios donde múltiples personas se
 unen para compartir experiencias y tratar de que un grupo tenga un nivel uniforme de aprendizaje. Me gusta
-porque funcionan muy bien tanto en el ámbito académico como en el tecnológico y porque al final AbreLATAM 2014
-fue  para todos los asistentes una plataforma de aceleración de conocimiento y relaciones de colaboración
+porque funcionan muy bien tanto en el ámbito académico como en el tecnológico. Lo digo porque, al final, AbreLATAM 2014
+fue para todos los asistentes una plataforma de aceleración de conocimiento y relaciones de colaboración
 entre latinoamericanos trabajando en transparencia y con Datos Abiertos.
 
 
 Algunas de las curiosidades con las que nos encontramos en el evento fue que encontramos pocos equipos fuertemente
 técnicos como Codeando México. Es ahí donde es evidente nuestra participación y el aporte que podemos hacer a la
-comunidad latinoaméricana.
+comunidad latinoamericana.
 
 
 **Las Mesas en las que participé**
 
-AbreLATAM es un evento de solo un día y muchas experiencias que compartir, tomé un rol activo a pesar de que no lo
+AbreLATAM es un evento  que dura solamente un día y hay muchas experiencias que compartir, tomé un rol activo a pesar de que no lo
 había pensado así originalmente. Acompañé la discusión técnica en Open Data de las mesas en las que trabajé y tomé
 notas para después compartirlas, las discusiones se concentraron en:
 
@@ -47,7 +47,7 @@ notas para después compartirlas, las discusiones se concentraron en:
 
 ***Estándares y formatos de datos abiertos***
 
-En la mesa de estándares y formatos de datos abiertos hubo a la vez una plática muy técnica pero al mismo tiempo muy
+En la mesa de estándares y formatos de datos abiertos se dio la vez una plática muy técnica pero al mismo tiempo muy
 nutrida para los que fueron sin saber mucho al respecto. Discutimos mucho sobre los formatos en los que se deben de
 publicar los datos abiertos. En ese momento, sin intervenir en temas de data descriptiva o interconectada que
 constituye las 4 y 5 estrellas del [5 star Open Data](http://5stardata.info/), documentamos:
@@ -79,7 +79,7 @@ la Unión Europea
 
 En términos generales y no muy distinto al contexto mexicano las organizaciones están preocupadas sobre cómo podemos
 ayudar a que los gobiernos publiquen más datos y a que las ONG los  utilicen de manera activa para tomar decisiones
-e informar a la ciudadanía sobre problemas específicos. En general creo que hubo un concenso muy evidente en esta edición
+e informar a la ciudadanía sobre problemas específicos. En general creo que hubo un consenso muy evidente en esta edición
 sobre el uso de Datos Abiertos en periodismo y es que las visualizaciones de datos abiertos son una de las vías más
 efectivas de comunicación.
 
@@ -96,10 +96,10 @@ conformar el estándar de contrataciones abiertas y en un post futuro les platic
 Técnicamente hablando nos preocupa también la educación dentro de las instancias de gobierno para que se reconozcan como
 un ente de operación y generación de datos. La integración de sus datos debe ser prioridad pues actualmente se generan
 de manera aislada. Esto puede llevarnos a tomar mejores decisiones y es una de las capacidades que tenemos que desarrollar
-tan pronto como sea posible, recordemos que en enero de este año se nombró el primer Chief Data Scientist que preside el
+tan pronto como sea posible. Recordemos que en enero de este año se nombró el primer Chief Data Scientist que preside el
 [Data Sciences Group](http://www.ida.gov.sg/About-Us/Organisation-and-Team/Data-Sciences-Group) en Singapur.
 
-Para cerrar nuestra experiencia en esta mesa hablamos sobre Datamx.io, compartí sobre nuestro centro de apertura
+Para cerrar nuestra experiencia en esta mesa hablamos sobre [Datamx.io](http://datamx.io), compartí sobre nuestro centro de apertura
 de datos donde ayudamos a particulares y a organizaciones a convertir datos públicos en formatos cerrados o propietarios
 en datos de formatos legibles por máquinas para su análisis.
 
@@ -113,16 +113,16 @@ sin embargo es mucho más costoso que la sola publicación de los datos en un po
 las bases de datos sí necesitan API, como cuando los datos se deben de publicar con una periodicidad diaria o aún más frecuente,
 es decir necesitamos una API cuando un dato debe ser inmediato o cuando facilita tareas periódicas a quien publica. Sin embargo,
 hay ciertos tipos de datos que aunque no sean actualizados de manera periódica o muy frecuente también es importante que estén
-en formato de API, un caso de uso muy particular pueden ser datos de alerta sobre emergencias o datos que afecten la seguridad
+en formato de API. Un caso de uso muy particular pueden ser datos de alerta sobre emergencias o datos que afecten la seguridad
 de los ciudadanos.
 
-Yendo un poco mas hacia la función de contraloria o testigo de los datos las API deben de tener un acompañamiento de documentos en formatos
+Yendo un poco mas hacia la función de contraloría o testigo de los datos las API deben de tener un acompañamiento de documentos en formatos
 abiertos. Los ciudadanos deben de poder bajar una "foto" del estado actual de la base de datos, en México, se comentó, hay bases de datos
 que cambian de la noche a la mañana.
 
 Como conclusión personal de AbreLATAM 2014, me quedo con que hay que llevar los datos a la ciudadanía con comunicación efectiva.
 No vale la pena duplicar esfuerzos, ni aplicaciones. Es inmenso el potencial de cooperación entre latinoamericanos.
-Además Codeando México seguirá teniendo un rol muy activo y propositivo  para que el software que use activamente datos suceda en la región.
+Además Codeando México seguirá teniendo un rol muy activo y propositivo para que el software que use activamente datos suceda en la región.
 
 Me gustaría también felicitar a nuestra organización hermana [SocialTIC](http://socialtic.org) por la realización del evento
 y por su constante preocupación de conectar organizaciones en América Latina para resolver los problemas sociales de la región.
