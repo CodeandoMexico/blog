@@ -10,7 +10,7 @@ excerpt: "La emoción de iniciar una nueva aventura de trabajo en un lugar en el
 author:
   name: Oscar Montiel
   twitter: tlacoyodefrijol
-  bio: El nuevo
+  bio: Innovación Abierta
   image: authors/oscar.jpg
 
 ---
