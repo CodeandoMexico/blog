@@ -22,15 +22,9 @@ Codeando México estuvimos presentes para colaborar.
 **AbreLATAM 2014 fue una desconferencia**
 
 
-Personalmente me gustan mucho los seminarios y desconferencias, pues son espacios donde múltiples personas se
-unen para compartir experiencias y tratar de que un grupo tenga un nivel uniforme de aprendizaje. Me gusta
-<<<<<<< HEAD
-porque funcionan muy bien tanto en el ambito académico como en el tecnológico y porque al final AbreLATAM 2014
-fue  para todos los asistentes una plataforma de aceleración de conocimiento y relaciones de colaboración
-=======
+Personalmente me gustan mucho los seminarios y desconferencias, pues son espacios donde múltiples personas se unen para compartir experiencias y tratar de que un grupo tenga un nivel uniforme de aprendizaje. Me gusta
 porque funcionan muy bien tanto en el ámbito académico como en el tecnológico. Lo digo porque, al final, AbreLATAM 2014
 fue para todos los asistentes una plataforma de aceleración de conocimiento y relaciones de colaboración
->>>>>>> 8fbd0257ff2d151ac368ce09264c9ad18fb01367
 entre latinoamericanos trabajando en transparencia y con Datos Abiertos.
 
 
@@ -41,11 +35,8 @@ comunidad latinoamericana.
 
 **Las Mesas en las que participé**
 
-<<<<<<< HEAD
-AbreLATAM es un evento de solo un día y muchas experiencias que compartir. Tomé un rol activo a pesar de que no lo
-=======
+
 AbreLATAM es un evento  que dura solamente un día y hay muchas experiencias que compartir, tomé un rol activo a pesar de que no lo
->>>>>>> 8fbd0257ff2d151ac368ce09264c9ad18fb01367
 había pensado así originalmente. Acompañé la discusión técnica en Open Data de las mesas en las que trabajé y tomé
 notas para después compartirlas. Las discusiones se concentraron en:
 
@@ -56,11 +47,7 @@ notas para después compartirlas. Las discusiones se concentraron en:
 
 ***Formatos y estándares de datos abiertos***
 
-<<<<<<< HEAD
-En la mesa de formatos y estándares de datos abiertos se dio una plática muy técnica pero al mismo tiempo muy
-=======
 En la mesa de estándares y formatos de datos abiertos se dio la vez una plática muy técnica pero al mismo tiempo muy
->>>>>>> 8fbd0257ff2d151ac368ce09264c9ad18fb01367
 nutrida para los que fueron sin saber mucho al respecto. Discutimos mucho sobre los formatos en los que se deben de
 publicar los datos abiertos. En ese momento, sin intervenir en temas de data descriptiva o interconectada que
 constituye las 4 y 5 estrellas del [5 star Open Data](http://5stardata.info/), documentamos:
@@ -79,11 +66,7 @@ Vean los campos descritos en [Project Open Data](http://project-open-data.github
 [mbox](http://project-open-data.github.io/schema/#mbox) y
 [publisher](http://project-open-data.github.io/schema/#publisher).
 
-<<<<<<< HEAD
-* El tenedor de los datos debe de extender una licencia que debe de ser abierta; es decir, se debe ser explícito sobre cómo
-=======
 * El tenedor de los datos debe de extender una licencia que debe de ser abierta, es decir, se debe ser explícito sobre cómo
->>>>>>> 8fbd0257ff2d151ac368ce09264c9ad18fb01367
 se pueden reutilizar esos datos. Pueden revisar el proyecto [Open Definition](http://opendefinition.org/licenses/) de
 la [Open Knowledge Foundation](http://okfn.org) donde analizan distintas licencias para Open Data, es de hecho aquí
 de donde se importan todas las licencias a elegir por defecto en el administrador de datos abiertos [CKAN](http://ckan.org).
@@ -95,11 +78,7 @@ la Unión Europea
 
 
 En términos generales y no muy distinto al contexto mexicano las organizaciones están preocupadas sobre cómo podemos
-<<<<<<< HEAD
-ayudar a que los gobiernos publiquen más datos y a que las ONGs los utilicen de manera activa para tomar decisiones
-=======
 ayudar a que los gobiernos publiquen más datos y a que las ONG los  utilicen de manera activa para tomar decisiones
->>>>>>> 8fbd0257ff2d151ac368ce09264c9ad18fb01367
 e informar a la ciudadanía sobre problemas específicos. En general creo que hubo un consenso muy evidente en esta edición
 sobre el uso de Datos Abiertos en periodismo y es que las visualizaciones de datos abiertos son una de las vías más
 efectivas de comunicación.
@@ -120,14 +99,9 @@ de manera aislada. Esto puede llevarnos a tomar mejores decisiones y es una de l
 tan pronto como sea posible. Recordemos que en enero de este año se nombró el primer Chief Data Scientist que preside el
 [Data Sciences Group](http://www.ida.gov.sg/About-Us/Organisation-and-Team/Data-Sciences-Group) en Singapur.
 
-<<<<<<< HEAD
-Para cerrar nuestra experiencia en esta mesa hablamos sobre [Datamx.io](http://datamx.io), en la cual compartí sobre [nuestro centro de apertura
-de datos](http://apertura.datamx.io) donde ayudamos a particulares y a organizaciones a convertir datos públicos en formatos cerrados o propietarios en datos de formatos legibles por máquinas para su análisis.
-=======
 Para cerrar nuestra experiencia en esta mesa hablamos sobre [Datamx.io](http://datamx.io), compartí sobre nuestro centro de apertura
 de datos donde ayudamos a particulares y a organizaciones a convertir datos públicos en formatos cerrados o propietarios
 en datos de formatos legibles por máquinas para su análisis.
->>>>>>> 8fbd0257ff2d151ac368ce09264c9ad18fb01367
 
 ***Base homologada de datos en la región. ¿Open Data u Open API?***
 
@@ -141,13 +115,8 @@ hay ciertos tipos de datos que aunque no sean actualizados de manera periódica 
 en formato de API. Un caso de uso muy particular pueden ser datos de alerta sobre emergencias o datos que afecten la seguridad
 de los ciudadanos.
 
-<<<<<<< HEAD
-Yendo un poco mas hacia la función de contraloría o testigo de los datos, las API deben de tener un acompañamiento de documentos en formatos
-abiertos. Los ciudadanos deben de poder bajar una "foto" del estado actual de la base de datos. En México se comentó que hay bases de datos
-=======
 Yendo un poco mas hacia la función de contraloría o testigo de los datos las API deben de tener un acompañamiento de documentos en formatos
 abiertos. Los ciudadanos deben de poder bajar una "foto" del estado actual de la base de datos, en México, se comentó, hay bases de datos
->>>>>>> 8fbd0257ff2d151ac368ce09264c9ad18fb01367
 que cambian de la noche a la mañana.
 
 Como conclusión personal de AbreLATAM 2014, me quedo con que hay que llevar los datos a la ciudadanía con comunicación efectiva.
