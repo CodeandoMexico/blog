@@ -55,4 +55,4 @@ Queremos expresar también un agradecimiento muy especial para todas las persona
 
 Por último, el agradecimiento más importante de todos va para los y las participantes, por haber trabajado duro en concebir sus propuestas y posteriormente en construir sus prototipos con la mayor calidad posible. Sin todos ustedes, Retos Públicos no hubiera sido posible.
 
-Aprovechamos para preguntarte: ¿a tí cómo te ha parecido la dinámica de Retos Públicos y/o cuáles son tus opiniones al respecto? Nos encantaría si nos compartes tus comentarios en la siguiente liga: http://comunidad.codeandomexico.org :D
+Aprovechamos para preguntarte: ¿a tí cómo te ha parecido la dinámica de Retos Públicos y/o cuáles son tus opiniones al respecto? Nos encantaría si nos compartes tus comentarios en la siguiente liga: http://comunidad.codeandomexico.org/t/sugerencias-para-el-programa-de-retos-publicos/21 :D
