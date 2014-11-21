@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: Tocando Base de Retos Públicos
+title: Un Update de Retos Públicos
 subtitle: "Dónde estamos con Retos y hacia a dónde vamos."
 cover_image: retocfe.jpg
 
