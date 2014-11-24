@@ -1,11 +1,11 @@
 ---
 layout: post
 
-title: Un Update de Retos Públicos
-subtitle: "Dónde estamos con Retos y hacia a dónde vamos."
+title: "Después de 9 Retos Públicos"
+subtitle: "Dónde estamos y hacia a dónde vamos."
 cover_image: retocfe.jpg
 
-excerpt: "Retos Públcios es una dinámica de Innovación Abierta que es sumamente importante para cambiar la manera en la que Gobierno compra software y tecnología, y así hacerla más abierta, accesible, eficiente y funcional."
+excerpt: "Retos Públicos es un programa de Innovación Abierta que busca cambiar la manera en la que Gobierno Federal adquiere software y tecnología, de una forma abierta, ágil, eficiente y funcional."
 
 author:
   name: Manuel Morato
@@ -45,7 +45,7 @@ Desde Codeando México, encontramos claras oportunidades de mejoras operativas q
 
 **No todos los retos son creados iguales.** Otra lección aprendida fue que como equipo experto en desarrollo de nuevos productos de software, debemos involucrarnos más con cada dependencia en el diseño de sus retos. Aprendimos que un buen Reto es aquel que abre la posibilidad a participantes de generar libremente ideas creativas y originales. Por otro lado, una propuesta demasiado definida y sin una problemática clara a resolver  limita la creatividad de los participantes y con ello niega nuevas posibles maneras de resolver el problema. . Trabajaremos  más de cerca con dependencias para diseñar retos que aprovechen la creatividad de los equipos participantes y que planteen un problema real y de manera clara.
 
-**Toda propuesta siempre puede mejorar** Mencionamos que hubo propuestas realmente buenas, apegadas a las mejores prácticas actuales de la industria. Sin embargo, incluso un gran proyecto tiene áreas de oportunidad y de mejora. Al evaluar todas estas propuestas, pudimos detectar las áreas en las que podemos ayudar a que los equipos y sus proyectos mejoren.  Aprovecharemos  esa claridad para organizar dinámicas de retroalimentación y mentoreo para que así la calidad de las propuestas pueda aumentar.
+**Toda propuesta siempre puede mejorar.** Mencionamos que hubo propuestas realmente buenas, apegadas a las mejores prácticas actuales de la industria. Sin embargo, incluso un gran proyecto tiene áreas de oportunidad y de mejora. Al evaluar todas estas propuestas, pudimos detectar las áreas en las que podemos ayudar a que los equipos y sus proyectos mejoren.  Aprovecharemos  esa claridad para organizar dinámicas de retroalimentación y mentoreo para que así la calidad de las propuestas pueda aumentar.
 
 ## Pronto vendrán las mejoras
 
@@ -55,4 +55,4 @@ Queremos expresar también un agradecimiento muy especial para todas las persona
 
 Por último, el agradecimiento más importante de todos va para los y las participantes, por haber trabajado duro en concebir sus propuestas y posteriormente en construir sus prototipos con la mayor calidad posible. Sin todos ustedes, Retos Públicos no hubiera sido posible.
 
-Aprovechamos para preguntarte: ¿a tí cómo te ha parecido la dinámica de Retos Públicos y/o cuáles son tus opiniones al respecto? Nos encantaría si nos compartes tus comentarios en la siguiente liga: http://comunidad.codeandomexico.org/t/sugerencias-para-el-programa-de-retos-publicos/21 :D
+Aprovechamos para preguntarte: ¿a tí cómo te ha parecido la dinámica de Retos Públicos y/o cuáles son tus opiniones al respecto? Nos encantaría si nos compartes tus comentarios con [la comunidad](http://comunidad.codeandomexico.org/t/sugerencias-para-el-programa-de-retos-publicos/21). :D
