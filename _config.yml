@@ -126,3 +126,4 @@ assets:
 
 gems:
   - jekyll-redirect-from
+encoding: utf-8
