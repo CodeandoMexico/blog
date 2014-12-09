@@ -1,68 +1,54 @@
 ---
 layout: post
 
-title: Unos hackers cívicos mexicanos en el Code for America Summit
+title: Unos hackers cÃ­vicos mexicanos en el Code for America Summit
 subtitle: "Experiencia y aprendizajes del Code for America Summit"
 cover_image: CodeForAmericaSummit.png
 
 author:
-  name: Equipo de Codeando México
+  name: Equipo de Codeando MÃ©xico
   twitter: codeandomexico
   image: authors/cmx_icon.jpg
 
 ---
 
-
-**Note**: Friends from Code for All,  we promise to translate this post  to  english in a couple of weeks, but for now we want 
-to  share  our amazing  experiences and learnings with  our spanish speaking community. 
+**Note**: Friends from Code for All,  we promise to translate this post  to  english in a couple of weeks, but for now we want to  share  our amazing  experiences and learnings with  our spanish speaking community. 
 
 
-El pasado 25 y 26 de Septiembre se llevó  a cabo en la ciudad de San Francisco  el 
-[Code for America Summit] (http://www.codeforamerica.org/summit/). Codeando México, como parte del programa Code for All, fue 
-invitado a participar en las conferencias y las reuniones con la comunidad de hackers cívicos  internacional. En los días de la 
-conferencia aprendimos de todos nuestros colegas, a través de conferencias, pláticas y reuniones alrededor de la conferencia. 
-Queremos compartir nuestros aprendizajes con ustedes. 
+El pasado 25 y 26 de Septiembre se llevÃ³  a cabo en la ciudad de San Francisco  el 
+[Code for America Summit] (http://www.codeforamerica.org/summit/). Codeando MÃ©xico, como parte del programa Code for All, fue 
+invitado a participar en las conferencias y las reuniones con la comunidad de hackers cÃ­vicos  internacional. En los dÃ­as de la conferencia aprendimos de todos nuestros colegas, a travÃ©s de conferencias, plÃ¡ticas y reuniones alrededor de la conferencia. Queremos compartir nuestros aprendizajes con ustedes. 
 
+*Hackers cÃ­vicos, hackers cÃ­vicos en todos lados*
 
-*Hackers cívicos, hackers cívicos en todos lados*
-
-
-Ya sea desde el lado de gobierno o desde la sociedad civil  es sorprendente ver la cantidad de gente que está involucrada 
-en el movimiento de hacking cívico.  El Code for America Summit comenzó con la reunión de Code for All, en donde conocimos  
-gente desde Africa hasta el Caribe levantando Brigadas de Hacking Cívico en el mundo.  Además de las Brigadas, también conocimos
-a fellows que trabajan al a par con el gobierno para resolver problemas que afectan a los ciudadanos. Por último, también 
-existen compañías privadas interesadas en unirse al movimiento de la tecnología cívica, como  [Accela] (http://www.accela.com/),
+Ya sea desde el lado de gobierno o desde la sociedad civil  es sorprendente ver la cantidad de gente que estÃ¡ involucrada 
+en el movimiento de hacking cÃ­vico.  El Code for America Summit comenzÃ³ con la reuniÃ³n de Code for All, en donde conocimos  
+gente desde Africa hasta el Caribe levantando Brigadas de Hacking CÃ­vico en el mundo.  AdemÃ¡s de las Brigadas, tambiÃ©n conocimos
+a fellows que trabajan al a par con el gobierno para resolver problemas que afectan a los ciudadanos. Por Ãºltimo, tambiÃ©n 
+existen compaÃ±Ã­as privadas interesadas en unirse al movimiento de la tecnologÃ­a cÃ­vica, como  [Accela] (http://www.accela.com/),
 [Google] (www.google.com) y [Microsoft] (http://microsoft.com). 
 
-
-Definitivamente aún queda mucho por hacer en el movimiento, pero es un alivio ver que la comunidad de hackers cívicos sigue 
+Definitivamente aÃºn queda mucho por hacer en el movimiento, pero es un alivio ver que la comunidad de hackers cÃ­vicos sigue 
 creciendo alrededor del mundo. 
 
 
 *Las licitaciones son un problema compartido *
 
+Un tema comÃºn entre todas las comunidades es cÃ³mo podemos resolver  la manera en que el gobierno licita software: Â¿cÃ³mo 
+diversificamos las compaÃ±Ã­as con las que trabaja el gobierno? Â¿cÃ³mo nos aseguramos que los contratos sean justos? Durante la 
+semana, aprendimos de proyectos que se estÃ¡n realizando 
+en [ciudades de Estados Unidos] (https://www.youtube.com/watch?v=3vPf6cUb614&list=PL65XgbSILalWFStqV0z0N9pvftstJ8AAh&index=23); como [Nashville] (https://www.youtube.com/watch?v=emeIwNib7x4&list=PL65XgbSILalWFStqV0z0N9pvftstJ8AAh&index=19) y [Oakland] (https://www.youtube.com/watch?v=F0pq55G5Pqc&list=PL65XgbSILalWFStqV0z0N9pvftstJ8AAh&index=20).  
+En MÃ©xico, tambiÃ©n estamos trabajando con este tema a travÃ©s del proyecto de [Retos PÃºblicos] (http://retos.datos.gob.mx). 
+Es bueno saber que Retos PÃºblicos estÃ¡ experimentando con resolver un problema que preocupa a todos los hackers cÃ­vicos.
 
-Un tema común entre todas las comunidades es cómo podemos resolver  la manera en que el gobierno licita software: ¿cómo 
-diversificamos las compañías con las que trabaja el gobierno? ¿cómo nos aseguramos que los contratos sean justos? Durante la 
-semana, aprendimos de proyectos que se están realizando 
-en [ciudades de Estados Unidos] (https://www.youtube.com/watch?v=3vPf6cUb614&list=PL65XgbSILalWFStqV0z0N9pvftstJ8AAh&index=23); 
-como [Nashville] (https://www.youtube.com/watch?v=emeIwNib7x4&list=PL65XgbSILalWFStqV0z0N9pvftstJ8AAh&index=19) y [Oakland] (https://www.youtube.com/watch?v=F0pq55G5Pqc&list=PL65XgbSILalWFStqV0z0N9pvftstJ8AAh&index=20).  
-En México, también estamos trabajando con este tema a través del proyecto de [Retos Públicos] (http://retos.datos.gob.mx). 
-Es bueno saber que Retos Públicos está experimentando con resolver un problema que preocupa a todos los hackers cívicos.
+*La tecnologÃ­a cÃ­vica se debe construir **con** la gente, no **para ** la gente*
 
+Como hackers cÃ­vicos, es fÃ¡cil sentir emociÃ³n por la creaciÃ³n de la tecnologÃ­a. Sin embargo, es importante recordar que en la
+tecnologÃ­a cÃ­vica lo importante no es el producto que se crea, sino la gente que lo utiliza. Por lo tanto ,es importante que
+el proceso de construcciÃ³n sea colaborativo e incluyente con la gente  que representa la comunidad que tiene el problema que 
+se piensa resolver. Es responsabilidad de los hackers cÃ­vicos construir en conjunto con la comunidad y  con miras a crear un 
+mundo mÃ¡s inclusivo, justo e igualitario. 
 
-*La tecnología cívica se debe construir **con** la gente, no **para ** la gente*
-
-
-Como hackers cívicos, es fácil sentir emoción por la creación de la tecnología. Sin embargo, es importante recordar que en la 
-tecnología cívica lo importante no es el producto que se crea, sino la gente que lo utiliza. Por lo tanto ,es importante que  
-el proceso de construcción sea colaborativo e incluyente con la gente  que representa la comunidad que tiene el problema que 
-se piensa resolver. Es responsabilidad de los hackers cívicos construir en conjunto con la comunidad y  con miras a crear un 
-mundo más inclusivo, justo e igualitario. 
-
-
-Estos fueron, a grandes rasgos, nuestros aprendizajes durante el Code for America Summit. Este evento fue un excelente entremés 
-para [@ABRELATAM] (https://twitter.com/ABRELATAM) y [@ConDatos] (www.twitter.com/ConDatosLATAM). En los cuáles analizamos el 
-ecosistema desde un panorama  de Latinoamérica y el Caribe. 
+Estos fueron, a grandes rasgos, nuestros aprendizajes durante el Code for America Summit. Este evento fue un excelente entremÃ©s para [@ABRELATAM] (https://twitter.com/ABRELATAM) y [@ConDatos] (www.twitter.com/ConDatosLATAM). En los cuÃ¡les analizamos el ecosistema desde un panorama  de LatinoamÃ©rica y el Caribe. 
 
 
