@@ -1,15 +1,17 @@
 ---
 layout: post
 
-title: Unos hackers cívicos mexicanos en el Code for America Summit
+title: "Hackers cívicos mexicanos en el Code for America Summit"
 subtitle: "Experiencia y aprendizajes del Code for America Summit"
 cover_image: CodeForAmericaSummit.png
 
-author:
-  name: Equipo de Codeando México
-  twitter: codeandomexico
-  image: authors/cmx_icon.jpg
+excerpt: "Experiencia y aprendizajes del Code for America Summit 2014"
 
+author:
+  name: Paulina Bustos
+  bio: Operaciones
+  twitter: paulinabustosa
+  image: authors/pau.jpeg
 ---
 
 **Note**: Friends from Code for All,  we promise to translate this post  to  english in a couple of weeks, but for now we want to  share  our amazing  experiences and learnings with  our spanish speaking community. 
@@ -19,7 +21,7 @@ El pasado 25 y 26 de Septiembre se llevó  a cabo en la ciudad de San Francisco 
 [Code for America Summit] (http://www.codeforamerica.org/summit/). Codeando México, como parte del programa Code for All, fue 
 invitado a participar en las conferencias y las reuniones con la comunidad de hackers cívicos  internacional. En los días de la conferencia aprendimos de todos nuestros colegas, a través de conferencias, pláticas y reuniones alrededor de la conferencia. Queremos compartir nuestros aprendizajes con ustedes. 
 
-*Hackers cívicos, hackers cívicos en todos lados*
+## Hackers cívicos, hackers cívicos en todos lados
 
 Ya sea desde el lado de gobierno o desde la sociedad civil  es sorprendente ver la cantidad de gente que está involucrada 
 en el movimiento de hacking cívico.  El Code for America Summit comenzó con la reunión de Code for All, en donde conocimos  
@@ -32,7 +34,7 @@ Definitivamente aún queda mucho por hacer en el movimiento, pero es un alivio v
 creciendo alrededor del mundo. 
 
 
-*Las licitaciones son un problema compartido *
+## Las licitaciones (procurement) son un problema compartido 
 
 Un tema común entre todas las comunidades es cómo podemos resolver  la manera en que el gobierno licita software: ¿cómo 
 diversificamos las compañías con las que trabaja el gobierno? ¿cómo nos aseguramos que los contratos sean justos? Durante la 
@@ -41,7 +43,7 @@ en [ciudades de Estados Unidos] (https://www.youtube.com/watch?v=3vPf6cUb614&lis
 En México, también estamos trabajando con este tema a través del proyecto de [Retos Públicos] (http://retos.datos.gob.mx). 
 Es bueno saber que Retos Públicos está experimentando con resolver un problema que preocupa a todos los hackers cívicos.
 
-*La tecnología cívica se debe construir **con** la gente, no **para ** la gente*
+## La tecnología cívica se debe construir con, no para
 
 Como hackers cívicos, es fácil sentir emoción por la creación de la tecnología. Sin embargo, es importante recordar que en la
 tecnología cívica lo importante no es el producto que se crea, sino la gente que lo utiliza. Por lo tanto ,es importante que

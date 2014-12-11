@@ -1,10 +1,11 @@
-﻿---
+---
 layout: post
 
-title: ¿Cómo te conviertes en un hacker cívico(a)?
+title: "¿Cómo te conviertes en un hacker cívico/a?"
 subtitle: "Principios para convertirte en un hacker cívico(a)"
-cover_image: hackercivico.jpg
+cover_image: HackerCivico.png
 
+excerpt: "Principios para convertirte en un hacker cívico(a)"
 
 author:
   name: Paulina Bustos
@@ -13,7 +14,6 @@ author:
   image: authors/pau.jpeg
 
 ---
-
 
 Los hackers cívicos son ingenieras, tecnólogos, ciudadanas, científicas, diseñadores, artistas, educadores, emprendedores y cualquier persona dispuesta a resolver los problemas y retos de nuestras comunidades, ciudades, estados y países; pero, ¿cómo te puedes convertir en un hacker cívico(a)? 
 
@@ -30,5 +30,3 @@ Para hacer hacking cívico se necesitan de herramientas que faciliten la distrib
 Espacios como las [Brigadas de Hacking Cívico] (http://www.meetup.com/Open-Data-Monterrey/) y [Hackatones Cívicos](http://www.opendatahgo.org) permiten que personas con diferentes perfiles coincidan para encontrar los retos de nuestra sociedad y colaborar para buscarles solución desde nuestros diferentes contextos. Hace falta que se abran más espacios como estos para reflexionar y actuar ante nuestra realidad. 
 
 ¿Cómo prácticas el hacking cívico todos los días? ¿Qué espacio necesitas para convertirte en un hacker cívico?  Queremos escuchar los ejemplos de todas las profesiones, ocupaciones y oficios. 
-
-
