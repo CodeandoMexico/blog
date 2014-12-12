@@ -3,7 +3,6 @@ layout: post
 
 title: "Censos de ciudades abiertas"
 subtitle: "Ciudades abiertas ¿en dónde está México?"
-cover_image: 
 
 excerpt: "¿Cuál ciudad es más abierta, DF, Monterrey o Reynosa, Tamapulipas?"
 
@@ -11,7 +10,7 @@ author:
   name: Oscar Montiel
   twitter: tlacoyodefrijol
   bio: Innovación Abierta
-  image: authors/oscar.jpeg
+  image: authors/oscar.jpg
 
 ---
 
