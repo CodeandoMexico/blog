@@ -3,6 +3,7 @@ layout: post
 
 title: "Censos de ciudades abiertas"
 subtitle: "Ciudades abiertas ¿en dónde está México?"
+cover_image: datos.png
 
 excerpt: "¿Cuál ciudad es más abierta, DF, Monterrey o Reynosa, Tamapulipas?"
 
