@@ -2,9 +2,8 @@
 layout: post
 
 title: "La comunidad hace la fuerza"
-cover_image: comunidad.png
-
 excerpt: "Para lograr grandes cambios, necesitamos actuar como comunidad."
+cover_image: comunidad-fuerza.png
 
 author:
   name: Miguel Salazar
