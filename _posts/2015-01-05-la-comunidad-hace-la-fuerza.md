@@ -8,8 +8,8 @@ cover_image: comunidad-fuerza.png
 author:
   name: Miguel Salazar
   twitter: miguelsalazarg
-  bio: Científico de Datos. Busco crear la siguiente generación de aplicaciones cívicas basadas en datos, para construir una sociedad más informada. También exploro datos abiertos para poder analizar, entender, inferir y predecir patrones que pueda haber ocultos en ellos, y publicar esos hallazgos de forma libre y abierta.
-  image: authors/mike.jpg
+  bio: "Científico de Datos"
+  image: authors/mike.jpeg
 
 ---
 
