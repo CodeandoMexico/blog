@@ -24,7 +24,7 @@ La **tecnología** es el conjunto de conocimientos técnicos, científicamente o
 
 -> ¿¿¡¡ QUÉ !!?? <- 
 
-<div class="full zoomable"><img src="/images/posts/lobito.jpg"></div>
+<div class="full zoomable"><img src="/images/posts/lobito.JPG"></div>
 
 Intentemos hacer una definición más simple: **La tecnología cívica son las herramientas o servicios creados para que convivamos de mejor manera como sociedad**. El campo de la tecnología actualmente está muy enfocado a software, es decir tecnología que se representa a través de páginas web y aplicaciones móviles. Por el momento hablaremos de  la tecnología enfocada a medios digitales, aunque la tecnología cívica no se limita a este medio.  Existen dos tipos de tecnología cívica en estos momentos [1]: 
 
