@@ -37,7 +37,7 @@ Intentemos hacer una definición más simple: **La tecnología cívica son las h
 	* **Tecnologías de preguntas y respuestas**: Páginas web para preguntar y contestar dudas relacionadas con la ciudad. [Honolulu Answers](http://www.codeforamerica.org/apps/honolulu-answers/) es uno de los mejores ejemplos de este rubro.
 	* **Plataformas cívicas de datos abiertos**: Aplicaciones para la apertura de datos comunitaria. Estas plataformas se enfocan en abrir datos utilizando la inteligencia colectiva de sus usuarios y a recolectar datos que no son exclusivos del gobierno, algunos ejemplos son: [datamx.io](http://datamx.io) y la [nación data](http://www.lanacion.com.ar/data).
 
-Lo más importante de la tecnología cívica es su enfoque, hacia ejercer la ciudadanía y mejorar nuestras relaciones como sociedad. La tecnología cívica se puede desarrollar con muchos modelos de operación: a través de una compañía, colectivos o como organizaciones civiles. En Codeando México, nuestra definición de tecnología cívica incluye los elementos de: Sin fines de lucro,  software libre y creada desde ciudadanas para ciudadanos, __¿ustedes qué le agregarías a la definición?__ 
+Lo más importante de la tecnología cívica es su enfoque, hacia ejercer la ciudadanía y mejorar nuestras relaciones como sociedad. La tecnología cívica se puede desarrollar con muchos modelos de operación: a través de una compañía, colectivos o como organizaciones civiles. En Codeando México, creamos tecnología cívica creada desde ciudadanas para ciudadanos, __¿ustedes, qué tipo de tecnología cívica van a crear?__ 
 
 Referencias: 
 [1] [Civic Tech Report] (http://www.knightfoundation.org/features/civictech/)
