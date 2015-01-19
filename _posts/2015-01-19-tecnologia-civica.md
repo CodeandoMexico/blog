@@ -1,4 +1,4 @@
-﻿---
+---
 layout: post
 
 title: "¿Qué es tecnología cívica?"
@@ -18,7 +18,7 @@ author:
 
 Hace poco tuvimos una pequeña plática con algunos entusiastas de Codeando México. Estas personas quieren colaborar con la organización porque creen que hacemos un buen trabajo en la ciudad. Sin embargo, tenían una pregunta fundamental para nosotros: __Cuando dicen que hacen tecnología cívica, ¿a qué se refieren?__ Esta cuestión es una de las más comunes que he escuchado desde que Codeando México nació. Otras que normalmente existen son __¿qué es tecnología cívica? ¿cuál es la diferencia entre tecnología cívica y la “normal”? ¿por qué no se llama tecnología y ya?__
 
-**Definición académica**
+## Definición académica
 
 La **tecnología** es el conjunto de conocimientos técnicos, científicamente ordenados, que permiten diseñar y crear bienes y servicios que facilitan la adaptación al medio ambiente y satisfacer tanto las necesidades esenciales como los deseos de la humanidad. Y, el **civismo** (del latín __civis__, ciudadano y civitas, civitatis, ciudad) se refiere a las pautas mínimas de comportamiento social que nos permiten convivir en colectividad y armonía. Entonces, la tecnología cívica consiste en practicar el civismo a través de la tecnología. 
 
@@ -26,7 +26,7 @@ La **tecnología** es el conjunto de conocimientos técnicos, científicamente o
 
 <div class="full zoomable"><img src="/images/posts/lobito.JPG"></div>
 
-Intentemos hacer una definición más simple: **La tecnología cívica son las herramientas o servicios creados para que convivamos de mejor manera como sociedad**. El campo de la tecnología actualmente está muy enfocado a software, es decir tecnología que se representa a través de páginas web y aplicaciones móviles. Por el momento hablaremos de  la tecnología enfocada a medios digitales, aunque la tecnología cívica no se limita a este medio.  Existen dos tipos de tecnología cívica en estos momentos [1]: 
+Intentemos hacer una definición más simple: **La tecnología cívica son las herramientas o servicios creados para que convivamos de mejor manera como sociedad**. El campo de la tecnología actualmente está muy enfocado a software, es decir tecnología que se representa a través de páginas web y aplicaciones móviles. Por el momento hablaremos de  la tecnología enfocada a medios digitales, aunque la tecnología cívica no se limita a este medio.  Existen dos tipos de tecnología cívica en estos momentos [1][civictechreport]: 
 
 * **Para promover la apertura de gobierno**: El Gobierno es la función en nuestra sociedad que se encarga de garantizar el bienestar y la convivencia entre las personas. Sin embargo, es una institución que históricamente ha sido alienada de los ciudadanos, al punto que no conocemos cómo funciona ni cómo colaborar con él. Por lo tanto, mucha de la tecnología cívica se enfoca a “abrir” esta institución para la colaboración. Algunas categorías de este tipo de tecnología son: 
 	* **Herramientas para participar la creación de leyes**: Sitios web para votar y debatir propuestas del congreso en línea. Ejemplos de esta tecnología son [DemocracyOS](http://democracyos.org/) y [Explica La Ley] (http://explica.la/ley). 
@@ -40,7 +40,9 @@ Intentemos hacer una definición más simple: **La tecnología cívica son las h
 Lo más importante de la tecnología cívica es su enfoque, hacia ejercer la ciudadanía y mejorar nuestras relaciones como sociedad. La tecnología cívica se puede desarrollar con muchos modelos de operación: a través de una compañía, colectivos o como organizaciones civiles. En Codeando México, creamos tecnología cívica creada desde ciudadanas para ciudadanos, __¿ustedes, qué tipo de tecnología cívica van a crear?__ 
 
 Referencias: 
-[1] [Civic Tech Report] (http://www.knightfoundation.org/features/civictech/)
+
+1 [Civic Tech Report](http://www.knightfoundation.org/features/civictech/)
+[civictechreport]: http://www.knightfoundation.org/features/civictech/
 
 
 
