@@ -11,7 +11,7 @@ author:
   name: Ricardo Alanis
   twitter: ric_alanis
   bio: Científico de datos en entrenamiento
-  image: authors/eme.png
+  image: authors/ric.jpg
 ---
 
 <div class="full zoomable"><img src="http://flowingdata.com/wp-content/uploads/2011/07/Data-and-cake.jpg"></div> 
