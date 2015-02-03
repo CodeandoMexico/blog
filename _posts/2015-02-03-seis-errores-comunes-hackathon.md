@@ -3,7 +3,7 @@ layout: post
 
 title: "Los 6 errores más comunes al participar en un Hackatón"
 subtitle: "Desde mi experiencia"
-cover_image: hackaton_banner.png
+cover_image: keep_calm_and_hackathon.jpg
 
 excerpt: "Desde mi experiencia"
 
