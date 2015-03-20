@@ -17,7 +17,7 @@ Fue hace ya dos años que surgió un día en los principales medios de comunicac
 
 El suceso llegó rápidamente a redes sociales, donde fue bautizado por las masas tuiteras como [la #App115](https://twitter.com/search?q=%23app115&src=typd), un símbolo representativo más de corrupción e ineficiencia en el gasto público por parte de autoridades gubernamentales.
 
-La historia [ya la hemos narrado en el pasado](http://web.archive.org/web/20130811121538/http://blog.codeandomexico.org/post/45466651453/derrocando-a-la-mexican-tech-mafia), pero no está de más recordar este acontecimiento y la manera en la que representó una chispa inicial de ignición que originó un movimiento mucho más amplio y relevante. Es un movimiento que ha evolucionado hasta convertirse en fuente de propuestas para cambios estructurales e institucionales en la manera en la que instituciones del sector público y el gobierno mexicano busca y tiene acceso a innovación tecnológica para resolver sus problemas.
+La historia [ya la hemos narrado en el pasado](http://web.archive.org/web/20130811121538/http://blog.codeandomexico.org/post/45466651453/derrocando-a-la-mexican-tech-mafia), pero no está de más recordar este acontecimiento y la manera en la que representó una chispa de ignición que originó un movimiento mucho más amplio y relevante. Es un movimiento que ha evolucionado hasta convertirse en fuente de propuestas para cambios estructurales en la manera en la que instituciones del sector público y el gobierno mexicano busca y tiene acceso a innovación tecnológica para resolver sus problemas.
 
 ## #App115 y la rebeldía constructiva
 
