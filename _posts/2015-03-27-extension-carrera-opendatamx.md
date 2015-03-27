@@ -1,16 +1,14 @@
-﻿---
+---
 layout: post
 
-title: ¡Ampliamos la carrera por abrir los datos públicos de México!
-subtitle: "Ya es hora de abrir los datos públicos de México
-"
-cover_image: carreradatos.png
+title: "Ampliamos la carrera por abrir los datos públicos de México"
 
+excerpt: "Extensión de tiempo para la Carrera OpenDataMX"
 
 author:
-  name: Equipo Datamx
+  name: Datamx
+  image: authors/cmx_icon.jpg
   twitter: datamx_io
-
 ---
 
 Para fomentar una mayor participación vamos a cambiar la fecha final de la [Carrera de Open Data MX 2015] (http://carrera.datamx.io). La nueva fecha límite para abrir datos de para la carrera será el **10 de Abril** y el ganador se anunciará por medio de Hangout on Air el **13 de Abril** a las 8:00 PM. 
