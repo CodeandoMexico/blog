@@ -9,7 +9,7 @@ cover_image: carreradatos.png
 
 author:
   name: Equipo Datamx
-  twitter: @datamx_io
+  twitter: datamx_io
 
 ---
 
