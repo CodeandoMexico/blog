@@ -15,11 +15,11 @@ author:
 
 ---
 
-¿Cómo medimos el punto en que se enduenta una ciudad en la apertura de datos? ¿De qué serviría tener mil conjuntos de datos abiertos si su contenido no le interesa a nadie? ¿Cuál ciudad tiene más conjuntos de datos relevantes abiertos? 
+¿Cómo medimos el punto en que se encuentra una ciudad en la apertura de datos? ¿De qué serviría tener mil conjuntos de datos abiertos si su contenido no le interesa a nadie? ¿Cuál ciudad tiene más conjuntos de datos relevantes abiertos? 
 
-Esto es lo que se busca descubrir con el [Open Data Census de las ciudades mexicanas](http://http://censo.datamx.io/), que en conjunto con [SocialTic](http://socialtic.org) estamos trabajando desde octubre de este año. 
+Esto es lo que se busca descubrir con el [Open Data Census de las ciudades mexicanas](http://censo.datamx.io/), que en conjunto con [SocialTic](http://socialtic.org) estamos trabajando desde octubre de este año. 
 
-En este Censo hay 13 conjuntos de datos que idealmente todas las ciudades deberían de tener abiertos. Es decir: estar disponibles manera electrónica, en formatos que se puedan descargar y trabajar en una computadora de manera fácil y con una licencia que permita a cualquiera trabajar de la manera que quiera con esos datos. 
+En este Censo hay 13 conjuntos de datos que idealmente todas las ciudades deberían de tener abiertos. Es decir: estar disponibles de manera electrónica, en formatos que se puedan descargar y trabajar en una computadora de manera fácil y con una licencia que permita a cualquiera trabajar de la manera que quiera con esos datos. 
 
 Los datos van desde datos sobre [transporte en tiempo real](http://censo.datamx.io/dataset/transport-realtime) hasta [gastos](http://censo.datamx.io/dataset/spending) y [contratos otorgados](http://censo.datamx.io/dataset/contracts) en la ciudad, pasando por datos de [crimen](http://censo.datamx.io/dataset/crime-stats). Estos conjuntos buscan dar una noción general de qué ciudades están yendo un poco más de la transparencia que la ley los obliga. 
 
