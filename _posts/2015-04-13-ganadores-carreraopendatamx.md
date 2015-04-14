@@ -2,7 +2,7 @@
 layout: post
 
 title: "Cierre de la primera edición de la Carrera OpenDataMX 2015"
-cover_image: Carreraopendatamx.png
+cover_image: Carreraopendatamx.PNG
 
 excerpt: "Hoy termina la primera edición de la Carrera OpenDataMX"
 
