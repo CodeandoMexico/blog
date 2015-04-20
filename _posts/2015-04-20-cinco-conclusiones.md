@@ -9,7 +9,7 @@ author:
   name: Oscar Montiel
   twitter: tlacoyodefrijol
   bio: Innovación Cívica
-  image: authors/oscar.jpeg
+  image: authors/oscar.jpg
 
 ---
 
