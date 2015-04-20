@@ -3,14 +3,16 @@ layout: post
 
 title: Una politóloga en Codeando México
 excerpt: Post de bienvenida. ¿Por qué Codeando México?
-cover_image: 
+cover_image: header-cd.jpg
 
 author:
   name: Catalina Demidchuk
   twitter: catademidchuk
   bio: Innovación Cívica
-  image: 
----
+  image: authors/cata.jpg
+--
+
+
 
 Soy muy sincera cuando digo que intenté algunas veces explicar qué es Codeando México, y qué iba a hacer yo como politóloga ahí, digo algunas veces porque la verdad, aunque en el momento que me dieron la gran y tan esperada noticia de que sería parte del equipo quería gritarlo a medio mundo. Después de unas cuantas veces fallidas desistí en mi tarea de intentar que mis amigas, mi familia, mis ex colegas entendieran qué es Codeando México y cuál sería mi rol en este increíble y desconocido ecosistema.
 
