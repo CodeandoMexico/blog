@@ -1,3 +1,4 @@
+---
 layout: post
 
 title: "Mi labor como diseñadora en Codeando México"
@@ -9,6 +10,8 @@ author:
  twitter: sofia_moya
  bio: Diseñadora de Interfaz y Experiencia
  image: authors/sofia.jpg
+ 
+ ---
  
 Cuando uno recién se gradúa llega a soñar a lo “grande”: Trabajar en un reconocido estudio o agencia sumamente popular, de aquellas que te pintan el panorama de que vas a ser feliz por siempre, que todo será maravilloso y serás la envidia de todos tus colegas. La realidad es que pensar en esas tan limitadas posibilidades significa cerrarse el mundo, y me atrevo a decir que no es la mejor opción en la que uno puede pensar. Estaba muy segura de que yo no quería eso, no era lo que buscaba, definitivamente no pertenezco al sector que sólo se dedica a vender, mucho menos al que se dedica a engañar. Yo pertenezco al sector que cambia, que innova, al tecnológico, *startupero* y emprendedor, donde la comunidad es unida, donde aprendes cosas nuevas durante todo el camino porque aquí no existe persona alguna que no esté dispuesta a ayudar. Me dediqué a rechazar propuestas y a esperar a que todo fluyera como debía fluir, recibir una propuesta de parte de Codeando México era lo que, sin darme cuenta, estaba esperando. Fue así como dejé atrás mis ~~muy perezosos~~ planes de tomar un año sabático para descansar de los estragos que me dejó la escuela.
 
