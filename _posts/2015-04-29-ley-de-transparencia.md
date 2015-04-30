@@ -1,15 +1,17 @@
 ---
-layout:post 
+layout: post 
 
-title:Interpretación de la nueva Ley de Transparencia con ojos de hacker cívico. 
+title: Interpretación de la nueva Ley de Transparencia con ojos de hacker cívico
+
 excerpt: La nueva Ley de Transparencia explicada y entendida por un hacker civico.
+
 cover_image: transparencia.jpg
 
 author:
-   name:Catalina Demidchuk
+   name: Catalina Demidchuk
    twitter: catademidchuk
-   bio: Innovación civica
-   image: authors/cata.jpg
+   bio: Innovación Cívica
+   image: authors/cata.png
 
 ---
 
