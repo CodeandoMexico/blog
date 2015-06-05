@@ -43,6 +43,9 @@ Plataforma para conocer los acusaciones, relaciones de conflicto de interés, in
 [Bajoelmicroscopio.org]( http://bajoelmicroscopio.org/)  -Instituto Simone de Beauvoir  
 Plataforma que presenta y analiza  las propuestas de los candidatos del DF en materia de género, para estas elecciones.
 
+[Denunciaelectoral.mx](http://www.denunciaelectoral.mx/)-Citydevs
+Plataforma que permite a cualquier votante, de manera confidencial, enviar información sobre délitos electorales, cometidos en sus lugares de votación o alrededores.
+
 Sería ideal afirmar que en este caso la tecnología logrará que las elecciones sean más limpias, menos corruptas, que conseguirán que sea elect@ el mejor candidat@, y que la vida democrática de nuestro país madurará como nunca antes, pero no es cierto. La tecnología no es la solución a todos los males, ni un fin en sí misma. Las soluciones no son utilizadas por todos los estratos de nuestra sociedad, no son el remedio a problemas estructurales como la desigualdad o la brecha digital, pero es cierto que los ciudadanos que tienen acceso a ellas hoy pueden gozar de herramientas para participar en la vida democrática de su país, que antes no existían y que en ciertos contextos era difícil imaginar. Hoy se convierte en un medio interesante, que vale la pena aprovechar. 
 
 A la vez, festejar por todas aquellas mentes creativas, hackers cívicos,  que al momento de desarrollar un nuevo producto, pensaron en todos nosotros y en el futuro de este país, ya que de eso depende cómo votemos este 7 de junio.
