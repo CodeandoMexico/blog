@@ -3,13 +3,14 @@ layout: post
 
 title: Elecciones y tecnología cívica. Un nuevo punto de encuentro.
 excerpt: Un nuevo movimiento en época electoral.
-cover_image:tech_elecciones.png
+cover_image: tech_elecciones.png
 
 author: 
-name: Catalina Demidchuk
-twitter: @catademidchuk
-bio: Innovación abierta y politica pública. 
-image: cata.jpg
+  name: Catalina Demidchuk
+  twitter: catademidchuk
+  bio: Innovación abierta y Politica Pública 
+  image: authors/cata.png
+
 ---
 
 En época de elecciones todo cambia, las calles no son las mismas, hay caras de desconocidos que se vuelven famosos, banderines, carteles; los mismos tonos de colores por todos los rincones, perdiendo su intensidad, color significa partido y no arte. Las conversaciones tampoco son las mismas, hasta la plática más trivial termina convirtiéndose en dimes y diretes sobre candidatos, hasta que todo acaba con un “religión, fútbol y política en la mesa no”. En los últimos años hasta las redes sociales se han convertido en un nuevo campo de lucha para temas electoreros y con  ello la multiplicación de videos,  llamadas interceptadas y todo lo que puede volverse viral que además se comunica a la velocidad de la luz. 
