@@ -1,8 +1,9 @@
 ---
 layout: post
 
-title: Elecciones y tecnología cívica. Un nuevo punto de encuentro
+title: Elecciones y tecnología cívica. Un nuevo punto de encuentro.
 excerpt: Un nuevo movimiento en época electoral.
+cover_image: foto_palomas.png
 
 author: 
   name: Catalina Demidchuk
