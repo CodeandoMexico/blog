@@ -22,16 +22,13 @@ Pero hoy, el día después, la pregunta sin duda en este tema es, ¿qué sigue?,
 
 La reflexión que nos toca hacer hoy,  desde este punto de vista, se centra en, ¿cómo y qué sigue para las herramientas de tecnología cívica después de las elecciones? Vimos una creación y uso sin precedente de estas, pero es importante apuntar que aquí no termina la tarea, y esta no es sólo de las mentes creativas que se dedicaron a sorprendernos con sus productos tecnológicos, sino de todos, como sociedad que busca por fin darle seguimiento y continuidad a un proyecto de país. 
 
-¿Qué sigue para las herramientas de Tecnología Cívica y para nosotros como ciudadanos?
+## ¿Qué sigue para las herramientas de Tecnología Cívica y para nosotros como ciudadanos?
 
-	•	Hoy como ciudadanos debemos exigir transparencia máxima en los resultados electorales y en los gastos de campaña, así como hicimos uso de la información, y las diversas infografías y visualizaciones antes y durante las elecciones. [INE Fácil](http://inefacil.com/)
-
-	•	Hoy debemos seguir con y reforzar nuestra mente crítica como ciudadanos, ser indagadores; así como investigamos antes y durante las elecciones. [Disfuncionarios.org](http://disfuncionarios.org/) 
-
-	•	Hoy como ciudadanos debemos exigirle a nuestros nuevos gobernantes que cumplan con cada una de las acciones que se comprometieron como candidatos, así como les exigimos antes y durante las elecciones. [Candidato Transparente](https://candidatotransparente.mx/#/) [Ligue Político](http://www.factico.com.mx/liguepolitico/)
-
-	•	Hoy como ciudadanos debemos, darle seguimiento a las numerosas denuncias y reportes que se hicieron a través de las herramientas tecnológicas; antes y durante las elecciones.[Visor Electoral](http://visorelectoral.org/) [Denunciaelectoral.mx](http://www.denunciaelectoral.mx/)
+* Hoy como ciudadanos debemos exigir transparencia máxima en los resultados electorales y en los gastos de campaña, así como hicimos uso de la información, y las diversas infografías y visualizaciones antes y durante las elecciones. [INE Fácil](http://inefacil.com/)
+* Hoy debemos seguir con y reforzar nuestra mente crítica como ciudadanos, ser indagadores; así como investigamos antes y durante las elecciones. [Disfuncionarios.org](http://disfuncionarios.org/) 
+* Hoy como ciudadanos debemos exigirle a nuestros nuevos gobernantes que cumplan con cada una de las acciones que se comprometieron como candidatos, así como les exigimos antes y durante las elecciones. [Candidato Transparente](https://candidatotransparente.mx/#/) [Ligue Político](http://www.factico.com.mx/liguepolitico/)
+* Hoy como ciudadanos debemos, darle seguimiento a las numerosas denuncias y reportes que se hicieron a través de las herramientas tecnológicas; antes y durante las elecciones.[Visor Electoral](http://visorelectoral.org/) [Denunciaelectoral.mx](http://www.denunciaelectoral.mx/)
 
 Y hoy sobre todo, como ciudadanos debemos seguir comprometidos en la vida pública de nuestro país, como lo demostramos a través de las diversas aplicaciones tecnológicas; de nada servirá el despertar de una sociedad, si se vuelve a dormir. Que el día después no sea el término de varios meses de proselitismo político, que sea el inicio de una transformación profunda, que sólo se alcanzará si logramos comprometernos, darle seguimiento y continuidad a lo que comenzamos. Hoy la comunidad tecnológica que creó las numerosas aplicaciones por y con nosotros; nos necesita. Como país no lograremos resultados si seguimos multiplicando y solapando esfuerzos, en vez de colaborar; no conseguiremos lo que tanto anhelamos si somos fáciles para olvidar y desechar. No veamos el 7 de junio como algo que terminó, sino como algo que apenas está empezando. Que el día después del triunfo de un candidato, sea el nuestro como sociedad civil. 
 
-* Si te interesa colaborar en alguna de las iniciativas, escribenos a equipo@codeandomexico.org.
+Si te interesa colaborar en alguna de las iniciativas, escribenos a equipo@codeandomexico.org.
