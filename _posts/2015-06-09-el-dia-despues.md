@@ -3,13 +3,13 @@ layout: post
 
 title: El día después
 excerpt: ¿Qué sigue para las herramientas tecnológicas creadas para las elecciones?
-cover_image: 
 
 author: 
- name: Catalina Demidchuk
- twitter: @catademidchuk
- bio: Innovación abierta y política pública. 
- image: 
+  name: Catalina Demidchuk
+  twitter: catademidchuk
+  bio: Innovación abierta y Política Pública 
+  image: authors/cata.png
+
 ---
 
 Cuando en nuestra vida está por llegar algún acontecimiento importante, que posiblemente la cambiará de alguna u otra forma temporal o para siempre, nuestros sentidos están alertas: ansiedad, emoción, expectativa, repulsión o alegría. Sea bueno o malo lo que está por venir, nuestra mente y cuerpo lo esperan y se preparan para ello. Cuando en nuestra vida el acontecimiento importante ya sucedió y la cambió de alguna u otra forma temporal o para siempre, el día después es una jornada extraordinaria, indescriptible. El día después puede ser la consumación de todo aquello que se esperaba, y con esto alegría, festejos; puede ser cruel, la expresión máxima de “todo sigue igual” o sumamente retador “¿ahora qué sigue?”.  En pocas palabras el día después es árido, complejo; nuevas puertas se abren, diversos caminos y decisiones que tomar. Lo que el día después demuestra es que lo que aconteció es sólo el inicio de algo que está recién comenzando. 
@@ -34,6 +34,4 @@ La reflexión que nos toca hacer hoy,  desde este punto de vista, se centra en, 
 
 Y hoy sobre todo, como ciudadanos debemos seguir comprometidos en la vida pública de nuestro país, como lo demostramos a través de las diversas aplicaciones tecnológicas; de nada servirá el despertar de una sociedad, si se vuelve a dormir. Que el día después no sea el término de varios meses de proselitismo político, que sea el inicio de una transformación profunda, que sólo se alcanzará si logramos comprometernos, darle seguimiento y continuidad a lo que comenzamos. Hoy la comunidad tecnológica que creó las numerosas aplicaciones por y con nosotros; nos necesita. Como país no lograremos resultados si seguimos multiplicando y solapando esfuerzos, en vez de colaborar; no conseguiremos lo que tanto anhelamos si somos fáciles para olvidar y desechar. No veamos el 7 de junio como algo que terminó, sino como algo que apenas está empezando. Que el día después del triunfo de un candidato, sea el nuestro como sociedad civil. 
 
-	•	Si te interesa colaborar en alguna de las iniciativas, escribenos a equipo@codeandomexico.org.
-
-Catalina Demidchuk
+* Si te interesa colaborar en alguna de las iniciativas, escribenos a equipo@codeandomexico.org.
