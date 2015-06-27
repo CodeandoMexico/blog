@@ -2,7 +2,7 @@
 layout: post
 
 title: "Limpia tus datos en la nube: Open Refine en datamx"
-cover_image: /posts/banner_openrefine.png
+cover_image: posts/banner_openrefine.png
 
 excerpt: "Refina tus datos en la nube con datamx"
 
@@ -11,7 +11,7 @@ author:
   twitter: rdalanist
   gplus: 103851993836605615467
   bio: Datos Abiertos e Innovación Abierta
-  image: authors/ric_moustache.jpg
+  image: authors/ric_moustache.png
 ---
 
 Cuando se trabaja con datos generados en el mundo real, la información puede venir con muchos errores: espacios de más, caracteres fuera de lugar y errores de dedo al por mayor. Para poder hacer análisis de calidad, se necesita que los datos estén libres de estos errores. Este salto implica que muchos se enfrentan a la labor horrible de arreglarlos a mano, tarea que toma horas y horas. Por suerte, existe [Open Refine](http://openrefine.org/), nombrada como “La Herramienta” para la [limpieza de datos](http://theodi.org/case-studies/mexico-case-study-using-data-squads-to-jump-start-government-open-data-publishing). Si, me acabo de citar a mi mismo.
