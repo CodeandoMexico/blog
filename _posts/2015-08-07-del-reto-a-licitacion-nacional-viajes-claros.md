@@ -35,9 +35,9 @@ Tienes hasta el 11 de agosto para los siguientes 10 pasos:
 7. Manda tu propuesta por CompraNET antes de las 11 am del 11 de agosto.
 8. Abre unas cervezas y celebra haber enviado tu primer propuesta en CompraNET.
 9. 2 días después, el 13 de agosto revisa los resultados de la licitación por CompraNET.
-10. Independiente al resultado, escríbenos y súmate a Codeando México para ayudarnos a hackear al gobierno.
+10. Independiente al resultado, escríbenos y súmate a [Codeando México](https://slackformexico.herokuapp.com) para ayudarnos a hackear al gobierno.
 
-**¿Ya mencioné que tienes hasta el martes 11 de agosto?**
+**¿Ya mencioné que tienes hasta el martes 11 de agosto?**](https://compranet.funcionpublica.gob.mx/web/login.html)
 
 No te pierdas la oportunidad de contribuir a un gobierno abierto, trabajar con una organización pública y de participar en un esfuerzo que busca cambiar cómo se diseña y compran soluciones digitales con ayuda de la comunidad.
 
