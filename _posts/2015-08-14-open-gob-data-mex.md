@@ -35,7 +35,7 @@ creer que se está avanzando en este tema cuando los problemas a los que nos enf
 inevitablemente, este movimiento parece estar fuera del radar de la gente, porque no se siente tan cercano. Hay muchos 
 esfuerzos que los ejecutores de Gobierno Abierto debemos realizar para cambiar esto. 
 
-**Proponer soluciones a temas más cercanos a nuestras ciudades**
+## Proponer soluciones a temas más cercanos a nuestras ciudades
 
 No es un secreto que las cosas que más nos afectan son las que más nos preocupan. Para crear confianza en el movimiento 
 de apertura de las sociedades, esta filosofía debe tocar las fibras cercanas a la gente: Compromisos como, [Datos para un 
@@ -43,9 +43,9 @@ México en Paz] (http://tablero.gobabiertomx.org/files/5595576465bb6.pdf)  y [Po
 por más personas  para que se hagan realidad. Para no dejar estos esfuerzos pasar desapercibidos a continuación se presentan 
 tres ejes en los que debemos trabajar para que el Gobierno Abierto no sea algo tan alejado de la gente.
 
-**Una filosofía de trabajo y no un medio en sí**
-Mucha de la [infraestructura](http://www.opengovpartnership.org/) y el dinero que se distribuye para impulsar el Gobierno Abierto se hace para hacer esfuerzos 
-transversales (por ejemplo, recursos para Gobierno Abierto y Datos Abiertos). Sin embargo, sería adecuado para los 
+## Una filosofía de trabajo y no un medio en sí
+
+Mucha de la [infraestructura](http://www.opengovpartnership.org/) y el dinero que se distribuye para impulsar el Gobierno Abierto se hace para hacer esfuerzos transversales (por ejemplo, recursos para Gobierno Abierto y Datos Abiertos). Sin embargo, sería adecuado para los 
 financiadores priorizar la inversión en  esfuerzos con temáticas particulares e importantes para cada una de las comunidades.
 Estos esfuerzos deben ir con financiamientos que no sólo apoyen la parte técnica/herramienta del proyecto, sino que también 
 involucren a la contraparte experta en el tema, que puede ser representada por asociaciones de la Sociedad Civil, 
@@ -53,7 +53,8 @@ académicos o agencias de gobierno especializadas en el tema. A su vez, el finan
 debe ir a organizaciones y equipos que entiendan el modelo de trabajo en donde lo más importante es resolver un problema 
 importante para la comunidad e involucran a los actores necesarios para lograrlo. 
 
-**Los voceros del movimiento deben ser los usuarios y los creadores de las herramientas**
+## Los voceros del movimiento deben ser los usuarios y los creadores de las herramientas
+
 Es común ver a los creadores de las herramientas hablar ampliamente de Gobierno Abierto y Datos Abiertos. Sin embargo, 
 no es tan común ver a los usuarios de las herramientas exponiendo las ventajas de las herramientas que utilizaron. 
 En las conferencias o ambientes públicos debemos ser inclusivos e impulsar a que los usuarios (agencias de gobierno temáticas, 
