@@ -26,7 +26,7 @@ trabajando en temas que nos ayudan a mejorar los modelos de gobernanza de nuestr
 la gente reaccione de esta manera. Es claro que en México tenemos un sinfín de problemas sociales y públicos. La corrupción 
 en el gobierno ha alcanzado un nivel que en ocasiones es difícil de creer. En un país lleno de problemas de corrupción y 
 violencia, como el problema de la [Casa Blanca](http://aristeguinoticias.com/0911/mexico/la-casa-blanca-de-enrique-pena-nieto/) 
-y [Ayotzinapa](http://www.economiahoy.mx/nacional-eAm-mx/noticias/6740555/05/15/Rodrigo-Medina-y-su-familia-lavan-dinero-en-las-islas-Caiman.html#.Kku8w01jrJkPEcj). 
+y [Ayotzinapa](http://www.animalpolitico.com/2014/11/cronologia-el-dia-dia-del-caso-ayotzinapa/). 
 ¿Cómo es posible que estemos trabajando en temas de apertura?
 
 El movimiento del [Gobierno Abierto](https://es.wikipedia.org/wiki/Gobierno_abierto) tiene como objetivo que los ciudadanos colaboren con la administración pública para 
