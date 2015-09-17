@@ -9,7 +9,7 @@ author:
   name: Oscar Montiel
   bio: Innovación abierta y comunidades
   twitter: tlacoyodefrijol
-  image: authors/oscar.jpeg
+  image: authors/oscar.jpg
 
 ---
 
