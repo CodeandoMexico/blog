@@ -1,8 +1,9 @@
 ---
 layout: post
 
-title: Cómo la comunidad puede ayudar a Codeando México 
-excerpt: Para poder seguir creciendo
+title: Cómo la comunidad puede ayudar a Codeando México
+subtitle: "Súmate a los votos en #UpgradeYourWorldMX para activar nuevas formas de participación ciudadana con tecnología"
+excerpt: "Súmate a los votos en #UpgradeYourWorldMX para activar nuevas formas de participación ciudadana con tecnología"
 cover_image: manita.png
 
 author:
