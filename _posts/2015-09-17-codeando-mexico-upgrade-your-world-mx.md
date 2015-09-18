@@ -14,11 +14,9 @@ author:
 
 ---
 
-Querida comunidad de Codeando México:
+Querida comunidad lectora de Codeando México:
 
-Como probablemente habrán visto, Microsoft está buscando a 5 organizaciones sin fines de lucro para apoyarlas con un fondo. A través de la campaña #UpgradeYourWorldMX están basándose en las redes sociales de las organizaciones para decidir quienes serán las cinco acreedoras a dicho fondo y desde Codeando México hemos decidido participar. 
-
-Una parte vital de Codeando México son nuestras comunidades. No sólo los que van a las Hack Nights, sino también aquellas personas que han participado en Retos Públicos, los y las que han subido datos a DataMX, los y las que han utilizado esos datos, quienes han hecho comentarios en Explica la Ley. 
+Como han visto durante los últimos dos años, una parte vital de Codeando México son nuestras comunidades. No sólo los que van a las Hack Nights, sino también aquellas personas que han participado en Retos Públicos, los y las que han subido datos a DataMX, los y las que han utilizado esos datos, quienes han hecho comentarios en Explica la Ley. 
 
 ¿Por qué votar por Codeando México? Porque con todos ustedes queremos seguir trabajando y no solamente en lo que hemos facilitado hasta ahora como pizza, chelas y goodies, sino también la posibilidad de financiar más cosas, apoyarlos de manera presencial, lanzar convocatorias con premios, infraestructura, etc. Buscaremos que la priorización sea una decisión lo más abierta posible y construida con la comunidad. 
 
