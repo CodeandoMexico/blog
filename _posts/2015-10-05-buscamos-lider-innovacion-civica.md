@@ -3,7 +3,7 @@ layout: post
 
 title: Buscamos Líder de Innovación Cívica
 
-excerpt: "Codeando México busca a Líder de Innovación Cívica para unirse a nuest equipo de trabajo"
+excerpt: "Codeando México busca a Líder de Innovación Cívica para unirse a nuestro equipo de trabajo"
 cover_image: desk.jpg
 
 author:
