@@ -12,7 +12,7 @@ author:
   twitter: juanpabloe
   gplus: 104851335007735747407 
   bio: Co-fundador, Director
-    image: authorJPon.jpg
+  image: authors/JP.jpg
 ---
 
 **ACTUALIZACIÓN**: Ya tenemos al líder de comunidad - [blogpost](http://blog.codeandomexico.org/2014/04/29/bienvenida-eme/).
