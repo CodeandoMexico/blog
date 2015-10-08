@@ -1,10 +1,8 @@
 ---
 layout: post
 
-title: ¡Felicidades Datamx.io! Primer lugar del Premio a la Innovación en Transparencia 2015
-
-
-excerpt: "Los datos abiertos llegaron para quedarse"
+title: ¡Felicidades Datamx.io! Premio a la Innovación en Transparencia 2015
+excerpt: "1er lugar. Los datos abiertos llegaron para quedarse"
 
 author:
   name: Equipo Codeando México
@@ -20,9 +18,7 @@ estaba comenzando y en pocos meses empezamos a ver que hackers cívicos sumaban 
 aplicación se convirtió en [Datamx.io] (http://datamx.io) y nosotros promovimos el mensaje: datos abiertos de ciudadanos para 
 ciudadanos. 
 
-
 Después de agregar [funcionalidades para estandarización de datos] (http://blog.codeandomexico.org/2015/06/22/limpia-tus-datos-en-la-nube-open-refine-en-datamx/), un [centro de solicitudes de apertura de datos] (http://blog.codeandomexico.org/2014/08/28/centro-de-apertura-de-datos/), una [carrera de apertura de datos en formatos no abiertos] (https://www.fayerwayer.com/2015/02/inicia-la-carrera-por-abrir-los-datos-publicos-de-mexico/) y sobre todo [muchos aprendizajes] (http://blog.codeandomexico.org/2014/09/19/datamx-a-un-anio/), Datamx.io, se convirtió en la plataforma de acompañamiento para la ciudadanía y organizaciones. Fue a finales de 2015 donde se publicaron más de [1,000 datasets, se hicieron más de 10 aplicaciones cívicas y se organizaron eventos en todo el país] (http://2015.datamx.io/). Más allá de los números, Datamx.io, ha representado ese lugar en donde se promueve la apertura de datos para solucionar los problemas que más nos aquejan en el país. Además, promueve una forma de participación ciudadana que sólo se ha podido lograr con la tecnología, porque abrir datos también es hacer ciudad y ejercer la ciudadanía. 
-
 
 Hoy estamos contentos de informarles que Datamx.io ha sido otorgado el [1er lugar] (http://premiotransparencia.org.mx/SitePages/TrabajosGanadores.aspx) en el Premio a la Innovación en Transparencia 2015 en la categoría de proyectos de Organizaciones Civiles. El [Premio a la Innovación en Transparencia] (http://premiotransparencia.org.mx/) tiene como objetivo reconocer y difundir las mejores experiencias e innovaciones que consolidan e incrementan la transparencia en la gestión pública y está dirigido por el [Instituto Nacional de Transparencia, Acceso a la Información y Protección de Datos Personales (INAI)] (http://www.inai.org.mx/) ; el [Banco Mundial] (http://www.worldbank.org/); la [Auditoría Superior de la Federación] (http://www.asf.gob.mx/Default/Index); el [Instituto Nacional de Administración Pública A.C] (http://www.inap.mx/portal/). y la [Secretaría de la Función Pública] (http://www.funcionpublica.gob.mx/). Estamos muy agradecidos por este reconocimiento y lo tomamos como una gran estimulo para seguir creciendo el hacking cívico y la apertura de datos en nuestro país.
 
