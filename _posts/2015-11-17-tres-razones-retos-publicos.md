@@ -9,7 +9,7 @@ author:
   name: Eduardo Ortiz-Ramirez
   twitter: edb_o
   bio: CEO de We Are The Robots Inc.
-  image: authors/ed.png
+  image: authors/ed.jpg
 
 ####Tres razones+recomendaciones a partir de nuestra experiencia participando y ganado en Retos Públicos
 
