@@ -1,3 +1,16 @@
+---
+layout: post
+
+title: Tres razones+recomendaciones a partir de nuestra experiencia participando y ganado en Retos Públicos
+excerpt: Una pequeña historia narrada por el CEO de We Are The Robots Inc. complementada con algunas reflexiones y recomendaciones para participar en Retos Públicos.
+cover_image: tres.jpg
+
+author:
+  name: Eduardo Ortiz-Ramirez
+  twitter: edb_o
+  bio: CEO de We Are The Robots Inc.
+  image: authors/ed.png
+
 ####Tres razones+recomendaciones a partir de nuestra experiencia participando y ganado en Retos Públicos
 
 #####Por Eduardo Ortiz Ramírez – CEO y Fundador de We Are The Robots Inc.
