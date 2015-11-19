@@ -2,7 +2,7 @@
 layout: post
 
 title: Nace Cívica Digital y un nuevo Codeando México
-excerpt: Después de tres años en los que Codeando México ha trabajado en crear comunidad en el desarrollo de tecnología cívica, cambiaremos la forma de hacer las cosas.
+excerpt: Después de tres años en los que Codeando México ha trabajado en crear comunidad en el desarrollo de tecnología cívica, cambia su estructura.
 
 author:
   name: JP Escobar
