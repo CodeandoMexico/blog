@@ -32,7 +32,7 @@ De hoy en adelante, Codeando México se enfocará en impulsar de manera equitati
 
 ## El enfoque de Codeando México en 2016: Comunidades
 
-En 2016, Codeando México estará enfocado al fortalecimiento libre e independiente de las comunidades a través de nuevos formatos, como:
+En 2016, Codeando México estará enfocado al fortalecimiento libre e independiente de las comunidades a través de nuevos formatos, como por ejemplo:
 1. La apertura a la comunidad de nuevos canales y medios, más allá del blog,  para promover de una manera más equitativa la documentación, la reflexión y la discusión alrededor de temas de tecnología cívica. 
 2. Abrir convocatorias de investigación y desarrollo de software, donde el trabajo de la organización se enfocará en facilitar los medios a la comunidad para que sean ellos exclusivamente quienes produzcan tecnología y conocimiento.
 3. Escalar proyectos de participación a diversos niveles como Retos Públicos y Retos Cívicos que vinculan a gobiernos y OSCs a desarrollar tecnología con nuevos modelos.
