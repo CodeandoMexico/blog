@@ -47,8 +47,8 @@ Con este nuevo Codeando México, miembros actuales del equipo tomarán las nueva
 * Catalina Demidchuk, Directora de Innovación Cívica
 * Óscar Montiel, Director de Comunidades
 
-Estoy muy contento de que formen el equipo y lideren el crecimiento de la organización para los próximos años. 
+Estoy muy contento de que formen el equipo que liderará el crecimiento de la organización para los próximos años. Entre sus primeras responsabilidades, sumarán a una persona en Innovación Cívica en las próximas semanas!
 
-Así mismo, el equipo de Servicios de Tecnología de Codeando México se transforma en Cívica Digital. Paulina y un servidor, a partir de esta semana dejamos la dirección de Codeando México para pasar a Cívica Digital. [Escribimos de ello aquí](http://blog.civica.digital/2015/11/19/inicia-civica-digital/).
+Así mismo, gran parte del equipo de Servicios de Tecnología de Codeando México se transforma en Cívica Digital. Paulina y un servidor, a partir de esta semana dejamos la dirección de Codeando México para pasar a Cívica Digital. [Escribí de ello aquí](http://blog.civica.digital/2015/11/19/inicia-civica-digital/).
 
 Este es un gran cambio que hemos comenzado a implementar gradualmente en el interior de la organización desde inicios de 2015 y estamos felices de comenzar a operar completamente de esta forma. Nos emociona mucho seguir trabajando, mediante nuevas organizaciones, en nuestras misiones originales, continuando con nuestra pasión que se ha convertido mejorar el estado actual de la tecnología cívica y la calidad de vida de las personas.
