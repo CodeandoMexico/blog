@@ -22,7 +22,7 @@ Es así como un nuevo **Codeando México** pondrá todos sus esfuerzos en el tra
 Durante estos tres años, la experiencia nos enseñó que cada una de estas dos tareas requiere una dedicación especializada e intensa para lograr la calidad que buscamos tanto en el trabajo de comunidad como al desarrollar productos tecnológicos cívicos. Es por eso que a partir de hoy, cada una de estas labores tendrá su espacio, permitiendo continuar así con el trabajo de ambas y ampliando, además, su campo de acción.
 
 En los últimos meses analizamos otras 3 opciones:
-1. Codeando México se podía transformar en una empresa, sin embargo, esto nos alejaría de poder incider desde la sociedad civil y la posibilidad de empujar tecnología cívica desde y con ella. 
+1. Codeando México se podía transformar en una empresa, sin embargo, esto nos alejaría de poder incidir desde la sociedad civil y la posibilidad de empujar tecnología cívica desde y con ella. 
 2. Un híbrido: que fuéramos una AC y una empresa gestionada por un mismo grupo de personas, sin embargo, en este panorama, la independencia y la neutralidad de las comunidades con las que trabaja Codeando México podrían quedar  comprometidas al ser comunidad y proveedor de servicios.
 3. La tercera opción era seguir haciendo todo desde una AC, sin embargo, esto no nos permitiría llevar a cabo muchas actividades que nos permitían crecer gracias a los modelos de financiamiento a los que, como empresa, se puede tener acceso.
 
