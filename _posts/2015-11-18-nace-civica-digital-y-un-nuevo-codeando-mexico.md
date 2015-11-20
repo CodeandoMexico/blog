@@ -12,7 +12,7 @@ author:
 
 ---
 
-Después de tres años en los que Codeando México ha trabajado en crear comunidad alrededor de innovación y tecnología cívica, cambiaremos su m forma de hacer las cosas. Hemos tomado la decisión de continuar con nuestras principales labores mediante dos caminos autónomos, con el fin de poder enfocarnos plenamente en cada una de nuestras misiones:
+Después de tres años en los que Codeando México ha trabajado en crear comunidad alrededor de innovación y tecnología cívica, cambiaremos su forma de hacer las cosas. Hemos tomado la decisión de continuar con nuestras principales labores mediante dos caminos autónomos, con el fin de poder enfocarnos plenamente en cada una de nuestras misiones:
 
 * Trabajar con comunidades impulsando el desarrollo de tecnología para generar nuevas formas de participación ciudadana.
 * Construir herramientas tecnológicas para fortalecer a la ciudadanía.
