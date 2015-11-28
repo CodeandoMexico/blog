@@ -36,7 +36,7 @@ Codeando México recomienda que enfoques la participación hacia retos,
 pues es la forma más específica para ayudar al hacker a entrar en
 contexto de una problemática. 
 
-***Bonus***: usa la plataforma de codeandomexico.org para listar tu
+***Tip***: usa la plataforma de codeandomexico.org para listar tu
 hackathon y documentar los retos, datos y recursos abiertos desde 1 mes
 antes de que inicie el hackathon.
 
@@ -51,7 +51,7 @@ desconocer la filosofía. Recuerda que idealmente el espacio debe tener
 un área de hackeo, una sala para presentar y espacio para alimentos,
 idealmente además otra para momentos de despejarse. 
 
-***Bonus***: acércate con los grupos universitarios que hostean
+***Tip***: acércate con los grupos universitarios que hostean
 reuniones regularmente en sus campus.
 
 ## Durante el hackathon
@@ -65,7 +65,7 @@ que de los hackers, lo cual no quieres. Este es un espacio para tener
 una cultura abierta, que fomente la colaboración, diversión y
 experimentación. Convierte al hacker en el protagonista.
 
-***Bonus***: permite que la dinámica del hackathon y logística sea
+***Tip***: permite que la dinámica del hackathon y logística sea
 facilitada por grupos locales de hackers. Grupos universitarios y de
 comunidades techie son excelentes organizadores de hackathons.
 
@@ -85,7 +85,7 @@ continuamente bajando su enfoque. Si el presupuesto es el problema,
 revisa tu plan de patrocinios para que sea seguro que tienes comida en
 tu hackathon. 
 
-***Bonus***: hay _sponsors_ que prefieren apoyar directamente con esto.
+***Tip***: hay _sponsors_ que prefieren apoyar directamente con esto.
 Inclúyelo como opción en tu paquete de patrocinios.
 
 ## Después el hackathon
@@ -105,7 +105,7 @@ y más común la respuesta "estuvo bien", "¿qué salió bueno?", "una app
 para hacer algo de educación que no recuerdo bien". Sería más fácil
 compartir un link con todos los hacks.
 
-***Pro-tip***: de nuevo, sube tu hackathon a codeandomexico.org y los
+***Tip***: de nuevo, sube tu hackathon a codeandomexico.org y los
 participantes pueden subir sus proyectos para que tengas un index
 documentado de los hacks y participantes.
 
@@ -115,7 +115,7 @@ crean demasiadas relaciones (de las productivas, no de _business card_),
 y ahí podrás conocer muchas personas con las que podrás colaborar en un
 futuro cercano o no tan cercano. 
 
-***Pro-tip***: Hostea una Civic Hack Night para exponer los hacks 1 mes
+***Tip***: Hostea una Civic Hack Night para exponer los hacks 1 mes
 después del hackathon y para comenzar una reunión recurrente, mucho más
 casual y sencilla de organizar para que las relaciones crezcan y se
 sigan nutriendo y sobre todo evolucionando en los proyectos.
