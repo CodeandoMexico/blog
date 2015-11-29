@@ -78,13 +78,13 @@ experimentación. Convierte al hacker en las y los protagonistas.
 facilitada por grupos locales de hackers. Grupos universitarios y de
 comunidades techie son excelentes organizadores de hackathons.
 
-### 5 Mal / inexistente conexión eléctrica y WiFi
+### 5 Evitar el mal / inexistente conexión eléctrica y WiFi
 Esto quizás debía ir antes del hackathon, pero debes poner especial
 atención en que mal WiFi es casi lo mismo que no tener electricidad.
 Revisa y prueba la conexión a internet del _venue_ para que no falle.
 
 
-### 6 No ofrecer comida
+### 6 Ofrecer comida y snacks las 24 horas
 ¿Por qué empresas importantes ofrecen comida/lunch a sus empleados? Está
 comprobado que ofrecer este _perk_ ayuda a que no tengan que
 desconcentrarse para buscar opciones de comida e invertir mucho tiempo
