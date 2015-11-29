@@ -12,6 +12,14 @@ author:
 
 ---
 
+Escribo este mensaje desde el 2do [Open Data
+Hidalgo](http://opendatahgo.org/), impulsado por
+excelentes organizaciones con gran interés por generar innovación
+ciudadana en el estado. He visto aquí y en los hackathons que he podido
+asistir este 2015 errores comunes y por lo cual escribo en breve 9
+detalles que se pueden mejorar al lanzar tu
+hackathon, especialmente cívico:
+
 ## Antes del hackathon
 
 ### 1 Evitar usar un hackathon para maquilar proyectos de tu organización
@@ -24,7 +32,7 @@ específico, ni que las personas trabajen 24 horas como robots. Si
 piensas que para hacer los proyectos que tu organización, gobierno o
 empresa no ha podido hacer, estás haciendo la dinámica incorrecta.
 
-### 2 Enfocar la participación de a través de retos y con recursos
+### 2 Enfocar la participación a través de retos y con recursos
 Los mejores hackathons están repletos de APIs, librerías open source,
 infografías, videos y en general recursos que ayudan a entrar en
 contexto para experimentar algo nuevo.
@@ -36,7 +44,8 @@ Codeando México recomienda que enfoques la participación hacia retos,
 pues es la forma más específica para ayudar al hacker a entrar en
 contexto de una problemática. 
 
-***Tip***: usa la plataforma de codeandomexico.org para listar tu
+***Tip***: usa la plataforma de
+[codeandomexico.org](https://codeandomexico.org) para listar tu
 hackathon y documentar los retos, datos y recursos abiertos desde 1 mes
 antes de que inicie el hackathon.
 
@@ -63,7 +72,7 @@ poner horarios para ir a dormir o no ir a dormir, poco a poco irá
 provocando que el ambiente del hackathon se trate más de la organización
 que de los hackers, lo cual no quieres. Este es un espacio para tener
 una cultura abierta, que fomente la colaboración, diversión y
-experimentación. Convierte al hacker en el protagonista.
+experimentación. Convierte al hacker en las y los protagonistas.
 
 ***Tip***: permite que la dinámica del hackathon y logística sea
 facilitada por grupos locales de hackers. Grupos universitarios y de
@@ -93,11 +102,11 @@ Inclúyelo como opción en tu paquete de patrocinios.
 ### 7 Los premios que los hackers quieren
 Siendo breve: a las(os) hackers no les importa el dinero como prioridad.
 Si bien dar un premio económico puede ser interesante, los premios en
-especie como herramientas, créditos para plataformas y partnerships son
+especie como herramientas, kits DIY, equipo de cómputo, drones, créditos para plataformas y partnerships son
 mucho más atractivas. 
 
 ***Tip***: No todo lo que dice "Silicon Valley" es oro. Hay partnerships
-nacionales con empresas de tecnología y fondos de inversión de mucho valor que puedes ofrecer.
+nacionales con startups de tecnología y fondos de inversión de mucho valor que puedes sumar a tu hackathon.
 
 ### 8 Documenta y habla de los hacks
 Es demasiado común preguntarle a alguien, ¿qué tal estuvo el hackathon X?,
