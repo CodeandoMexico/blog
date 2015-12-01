@@ -17,7 +17,7 @@ Después de tres años en los que Codeando México ha trabajado en crear comunid
 * Trabajar con comunidades impulsando el desarrollo de tecnología para generar nuevas formas de participación ciudadana.
 * Construir herramientas tecnológicas para fortalecer a la ciudadanía.
 
-Es así como un nuevo **Codeando México** pondrá todos sus esfuerzos en el trabajo con comunidades, y como resultado, hemos creamos una nueva compañía: **Cívica Digital**, la cual se dedicará al desarrollo de productos digitales y servicios de tecnología cívica. Tomamos esta decisión con una sola idea en mente: dedicarnos con el enfoque necesario a cada una de estas dos importantes misiones.
+Es así como un nuevo **Codeando México** pondrá todos sus esfuerzos en el trabajo con comunidades, y como resultado, creamos una nueva compañía: **Cívica Digital**, la cual se dedicará al desarrollo de productos digitales y servicios de tecnología cívica. Tomamos esta decisión con una sola idea en mente: dedicarnos con el enfoque necesario a cada una de estas dos importantes misiones.
 
 Durante estos tres años, la experiencia nos enseñó que cada una de estas dos tareas requiere una dedicación especializada e intensa para lograr la calidad que buscamos tanto en el trabajo de comunidad como al desarrollar productos tecnológicos cívicos. Es por eso que a partir de hoy, cada una de estas labores tendrá su espacio, permitiendo continuar así con el trabajo de ambas y ampliando, además, su campo de acción.
 
@@ -31,6 +31,7 @@ Y por último, llegamos a esta decisión: formar una nueva compañía que tome e
 De hoy en adelante, Codeando México se enfocará en impulsar de manera equitativa y meritocrática a los múltiples miembros de la comunidad tecnológica, trabajando fuertemente en crear nuevos programas que promuevan que, además de sociedad civil, más empresas e individuos se acerquen a causas ciudadanas, e incluso, en empujar la creación de nuevas empresas de tecnología cívica. Cívica Digital será un primer ejemplo de una empresa que forme parte de la comunidad de Codeando México.
 
 ## El enfoque de Codeando México en 2016: Comunidades
+
 
 En 2016, Codeando México estará enfocado al fortalecimiento libre e independiente de las comunidades a través de nuevos formatos, como por ejemplo:
 1. La apertura a la comunidad de nuevos canales y medios, más allá del blog,  para promover de una manera más equitativa la documentación, la reflexión y la discusión alrededor de temas de tecnología cívica. 
@@ -51,4 +52,4 @@ Estoy muy contento de que formen el equipo que liderará el crecimiento de la or
 
 Así mismo, gran parte del equipo de Servicios de Tecnología de Codeando México se transforma en Cívica Digital. Paulina y un servidor, a partir de esta semana dejamos la dirección de Codeando México para pasar a Cívica Digital. [Escribí de ello aquí](http://blog.civica.digital/2015/11/19/inicia-civica-digital/).
 
-Este es un gran cambio que hemos comenzado a implementar gradualmente en el interior de la organización desde inicios de 2015 y estamos felices de comenzar a operar completamente de esta forma. Nos emociona mucho seguir trabajando, mediante nuevas organizaciones, en nuestras misiones originales, continuando con nuestra pasión que se ha convertido mejorar el estado actual de la tecnología cívica y la calidad de vida de las personas.
+Este es un gran cambio que hemos comenzado a implementar gradualmente en el interior de la organización desde inicios de 2015 y estamos felices de comenzar a operar completamente de esta forma. Nos emociona mucho seguir trabajando, mediante nuevas organizaciones, en nuestras misiones originales, continuando con nuestra pasión de mejorar el estado actual de la tecnología cívica y la calidad de vida de las personas.
