@@ -31,7 +31,7 @@ Desde su visión inicial, Codeando México buscó crear espacios de innovación 
 Fuente: En alguna discusión de Basecamp titulada "CORE: Inspiración a 36,000 ft de altura".
 
 
-Descentralizar y abrir espacios implica empoderar y democratizar. Muestra de esto es el crecimiento orgánico de Codeandos en diferentes ciudades del país, así como las micro-comunidades que trabajan concretamente en temas desde [slack.codeandomexico.org](http://slack.codeandomexico.org) coordinándose sin una jerarquía vertical.
+Descentralizar y abrir espacios implica empoderar y democratizar. Muestra de esto es el crecimiento orgánico de Codeandos en diferentes ciudades del país, así como las micro-comunidades que trabajan concretamente en temas desde distintas plataformas, coordinándose sin una jerarquía vertical.
 
 Ahora que el rol de Codeando evoluciona al de ser un catalizador positivo de proyectos y comunidades donde cualquiera puede sumar, contribuir y proponer, no me queda duda de que este espacio que tanto hacía falta hace unos años, comienza a tener forma. Esto ya no es una organización, es una comunidad; un movimiento.
 
