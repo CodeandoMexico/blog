@@ -2,7 +2,7 @@
 
 layout: post
 
-title: "Ceremonia al Premio de Innovación en Transparencia 2015"
+title: "Ceremonia al Premio a la Innovación en Transparencia 2015"
 excerpt: El trabajo de Datamx, su comunidad y principios.
 
 author:
@@ -13,7 +13,7 @@ author:
 
 ---
 
-Hoy presentamos [Datamx](http://datamx.io) en el premio de Innovación en Transparencia 2015 en donde fuimos otorgados el primer lugar en la categoría de Personas Físicas y Asociaciones Civiles. Fue un honor poder compartir parte de la experiencia que aprendimos en alrededor de 2 años de trabajo y quisimos hacer énfasis en contar la historia de [Datamx](http://datamx.io) no en el fin hasta donde ha llegado, si no por los principios de los que partió y de las historias que hemos documentado, hay mucho que contar.
+Hoy presentamos [Datamx](http://datamx.io) en el Premio a la Innovación en Transparencia 2015 en donde nos fue otorgado el primer lugar en la categoría de Personas Físicas y Asociaciones Civiles. Fue un honor poder compartir parte de la experiencia que aprendimos en alrededor de 2 años de trabajo y quisimos hacer énfasis en contar la historia de [Datamx](http://datamx.io) no en el fin hasta donde ha llegado, si no por los principios de los que partió y de las historias que hemos documentado, hay mucho que contar.
 
 Estuvimos un par de años en contacto continuo con Gobierno, sociedad civil y ciudadanos interesados en cambiar su entorno, principalmente nos involucramos juntos en nuevas maneras de llevar innovación a nuestra sociedad de manera cívica. Cabe destacar que Codeando México y por lo tanto [Datamx](http://datamx.io) parten de 3 grandes pilares que dan forma a nuestro trabajo:
 - La innovación abierta.
@@ -28,7 +28,7 @@ Estuvimos un par de años en contacto continuo con Gobierno, sociedad civil y ci
 
 <div class="zoomable"><img src="/images/posts/2015-12-10-ceremonia-premio-transparencia/02_flujo_datos.png"></div>
 
-Una muestra de eso es que cuando [Datamx](http://datamx.io) nace solo tiene el objetivo de publicar y consumir datos. Posteriormente generamos un flujo de publicación y consumo de datos para la ciudadanía que involucró crear el [Centro de Apertura de datos](http://apertura.datamx.io), donde se pueden solicitar datos para su apertura así como analizar el pulso de qué es lo que demanda la ciudadanía. Más allá de los lineamientos técnicos de los datos abiertos nos dimos cuenta que la ciudadanía demanda datos *oportunos*.
+Una muestra de eso es que cuando [Datamx](http://datamx.io) nació solo tenía el objetivo de publicar y consumir datos. Posteriormente generamos un flujo de publicación y consumo de datos para la ciudadanía que involucró crear el [Centro de Apertura de Datos](http://apertura.datamx.io), donde se pueden solicitar datos para su apertura así como analizar el pulso de qué es lo que demanda la ciudadanía. Más allá de los lineamientos técnicos de los datos abiertos nos dimos cuenta que la ciudadanía demanda *datos oportunos*.
 
 
 <div class="zoomable"><img src="/images/posts/2015-12-10-ceremonia-premio-transparencia/03_casos_exito.png"></div>
@@ -52,6 +52,6 @@ Otro de los temas que nos entusiasman son las aplicaciones cívicas, se crearon 
 <div class="zoomable"><img src="/images/posts/2015-12-10-ceremonia-premio-transparencia/05_brigadas.png"></div>
 
 ## Las comunidades de hacking cívico
-Codeando México encuentra grupos de ciudadanos y mentes motivadas que quieren cambiar la colectividad y la ciudadanía. En el Gobierno los grupos se mueven en jerarquías, estos grupos de ciudadanos, a diferencia, se mueven en estructuras parecidas a las redes con un enfoque de colaboración en práctica y dirigidos hacia una meta común. Ellos probablemente se conocen gracias al Internet pues las comunidades temáticas son más fáciles de encontrar. Las brigadas son exactamente ese lugar donde se puede conocer a otros perfiles con el mismo interés cívico en persona. Algunos de los eventos que hicimos en conjunto con las brigadas y la comunidad fueron la [Carrera Open Data MX 2015](/2015/04/13/ganadores-carreraopendatamx/), el [Censo de Datos Abiertos](/2014/12/12/open-data-census-ciudades/), hackatones y Civic Hack Nights. 
+Codeando México encuentra grupos de ciudadanos y mentes motivadas que quieren cambiar la colectividad y la ciudadanía. En el Gobierno los grupos se mueven en jerarquías, en contraste, estos grupos de ciudadanos se mueven en estructuras parecidas a las redes. Ellos participan con un enfoque de colaboración en práctica y dirigidos hacia una meta común. Estos ciudadanos probablemente se conocen gracias al Internet pues las comunidades temáticas son más fáciles de encontrar. Las Comunidades de Hacking Cívico son exactamente ese lugar donde se puede conocer a otros perfiles con el mismo interés cívico en persona. Algunos de los eventos que hicimos en conjunto con las Comunidades de Hacking Cívico y la comunidad en línea fueron la [Carrera Open Data MX 2015](/2015/04/13/ganadores-carreraopendatamx/), el [Censo de Datos Abiertos](/2014/12/12/open-data-census-ciudades/), hackatones y Civic Hack Nights.
 
 [Datamx](http://datamx.io) como sistema se diluye entre la comunidad, la comunidad es la gran constructora del significado que tiene la plataforma. Quedó en la ceremonia que este ha sido una pequeña parte del camino que hemos recorrido y que podemos compartir. Más importante aún, permanecerá en el recuerdo el mensaje de que hay muchos ciudadanos interesados en la mejora del entorno y que quieren colaborar, que la transparencia es mejor cuando nos es útil y que hoy es un gran día que celebramos con ustedes. 
