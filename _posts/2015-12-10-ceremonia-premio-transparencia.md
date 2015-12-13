@@ -2,7 +2,7 @@
 
 layout: post
 
-title: "Ceremonia al Premio a la Innovación en Transparencia 2015"
+title: "Ceremonia del Premio a la Innovación en Transparencia 2015"
 excerpt: El trabajo de Datamx, su comunidad y principios.
 
 author:
