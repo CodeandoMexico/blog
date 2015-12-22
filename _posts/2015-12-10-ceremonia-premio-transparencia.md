@@ -5,6 +5,8 @@ layout: post
 title: "Ceremonia del Premio a la Innovación en Transparencia 2015"
 excerpt: El trabajo de Datamx, su comunidad y principios.
 
+cover_image: posts/2015-12-10-ceremonia-premio-transparencia/cover.jpg
+
 author:
  name: Noé Domínguez
  twitter: noe_dgz
