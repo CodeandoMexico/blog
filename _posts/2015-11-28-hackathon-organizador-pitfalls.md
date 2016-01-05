@@ -1,7 +1,7 @@
 ---
 layout: post
 
-title: 9 cosas que mejorar cuando organizas un hackathon cívico
+title: 10 cosas que mejorar cuando organizas un hackathon cívico
 excerpt: "La 5 no la vas a creer"
 
 author:
@@ -44,12 +44,18 @@ Codeando México recomienda que enfoques la participación hacia retos,
 pues es la forma más específica para ayudar al hacker a entrar en
 contexto de una problemática. 
 
-***Tip***: usa la plataforma de
-[codeandomexico.org](https://codeandomexico.org) para listar tu
-hackathon y documentar los retos, datos y recursos abiertos desde 1 mes
-antes de que inicie el hackathon.
+### 3 Empuja hacia una participación diversa
+La diversidad en tu hackathon puede significar la creación de soluciones 
+innovadoras que tratan problemas más cercanos a nuestras comunidades. Un grupo diverso 
+de personas no llegará sólo a tu hackatón: tienes que buscarlo. El primer paso es definir qué es diversidad para tu hackathon
+(esto depende de las soluciones que quieras impulsar). Por ejemplo, en algunos hackatones lo importante es que haya un buen grupo 
+de Gobierno y Sociedad Civil que guíen los proyectos y para otros que existan grupos equilibrados de hardware y software. Para todos 
+los hackathones es importante que busques la paridad de género. La diversidad creará soluciones que no te imaginabas en el hackathon que organizas. 
 
-### 3 Selecciona el lugar correcto 
+***Tip***: Busc grupos de mujeres en programación como [Women who Code] (http://www.meetup.com/Women-Who-Code-Mexico-City/events/220567315/) en tu ciudad, 
+asi como grupos de sociedad civil y gobierno. 
+
+### 4 Selecciona el lugar correcto 
 Es importante que selecciones un lugar que sea cómodo pero también
 funcional, que cuente con: acceso mediante transporte público, acceso 24
 / 7 sin bloqueos, seguridad (por todo el equipo que hay) y con una comunidad
@@ -65,7 +71,7 @@ reuniones regularmente en sus campus.
 
 ## Durante el hackathon
 
-### 4 Conviértelo en un espacio con la cultura hacker
+### 5 Conviértelo en un espacio con la cultura hacker
 Esos detalles como inaugurar el hackathon como si fuera un evento de gobierno, poner
 demasiadas reglas y querer ejercer control, limitar el ruido de equipos,
 poner horarios para ir a dormir o no ir a dormir, poco a poco irá
@@ -78,13 +84,13 @@ experimentación. Convierte al hacker en las y los protagonistas.
 facilitada por grupos locales de hackers. Grupos universitarios y de
 comunidades techie son excelentes organizadores de hackathons.
 
-### 5 Evitar el mal / inexistente conexión eléctrica y WiFi
+### 6 Evitar el mal / inexistente conexión eléctrica y WiFi
 Esto quizás debía ir antes del hackathon, pero debes poner especial
 atención en que mal WiFi es casi lo mismo que no tener electricidad.
 Revisa y prueba la conexión a internet del _venue_ para que no falle.
 
 
-### 6 Ofrecer comida y snacks las 24 horas
+### 7 Ofrecer comida y snacks las 24 horas
 ¿Por qué empresas importantes ofrecen comida/lunch a sus empleados? Está
 comprobado que ofrecer este _perk_ ayuda a que no tengan que
 desconcentrarse para buscar opciones de comida e invertir mucho tiempo
@@ -99,7 +105,7 @@ Inclúyelo como opción en tu paquete de patrocinios.
 
 ## Después el hackathon
 
-### 7 Los premios que los hackers quieren
+### 8 Los premios que los hackers quieren
 Siendo breve: a las(os) hackers no les importa el dinero como prioridad.
 Si bien dar un premio económico puede ser interesante, los premios en
 especie como herramientas, kits DIY, equipo de cómputo, drones, créditos para plataformas y partnerships son
@@ -108,7 +114,7 @@ mucho más atractivas.
 ***Tip***: No todo lo que dice "Silicon Valley" es oro. Hay partnerships
 nacionales con startups de tecnología y fondos de inversión de mucho valor que puedes sumar a tu hackathon.
 
-### 8 Documenta y habla de los hacks
+### 9 Documenta y habla de los hacks
 Es demasiado común preguntarle a alguien, ¿qué tal estuvo el hackathon X?,
 y más común la respuesta "estuvo bien", "¿qué salió bueno?", "una app
 para hacer algo de educación que no recuerdo bien". Sería más fácil
@@ -118,7 +124,7 @@ compartir un link con todos los hacks.
 participantes pueden subir sus proyectos para que tengas un index
 documentado de los hacks y participantes.
 
-### 9 Abrir los siguientes pasos para la comunidad
+### 10 Abrir los siguientes pasos para la comunidad
 Probablemente el mayor gane de un hackathon es generar comunidad. Se
 crean demasiadas relaciones (de las productivas, no de _business card_),
 y ahí podrás conocer muchas personas con las que podrás colaborar en un
