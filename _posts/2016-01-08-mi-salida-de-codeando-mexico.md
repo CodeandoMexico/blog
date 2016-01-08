@@ -2,7 +2,7 @@
 layout: post
 
 title: Mi salida de Codeando México
-excerpt: 
+excerpt: Antes de empezar a trabajar en Codeando México estaba decepcionado del gobierno en todos los niveles
 
 
 author:
