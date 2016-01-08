@@ -2,6 +2,8 @@
 layout: post
 
 title: Mi salida de Codeando México
+excerpt: 
+
 
 author:
   name: Oscar Montiel
