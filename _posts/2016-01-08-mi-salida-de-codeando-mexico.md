@@ -4,6 +4,7 @@ layout: post
 title: Mi salida de Codeando México
 excerpt: Antes de empezar a trabajar en Codeando México estaba decepcionado del gobierno en todos los niveles
 
+cover_image: bowie.jpg
 
 author:
   name: Oscar Montiel
