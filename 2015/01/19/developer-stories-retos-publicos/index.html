@@ -1,0 +1,229 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Developer Stories: Alerta MX &mdash; Codeando México Blog</title>
+    <link href="https://fonts.googleapis.com/css?family=Droid+Sans:400,700" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="/assets/main.css">
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+    <link rel="apple-touch-icon" href="/images/logo.png"/>
+    <link href="/feed.xml" rel="alternate" type="application/rss+xml" title="Codeando México Blog" />
+    <meta name="title" content="Developer Stories: Alerta MX ">
+    <link rel="canonical" href="http://blog.codeandomexico.org/2015/01/19/developer-stories-retos-publicos/">
+     
+           
+    <meta property="og:title" content="Developer Stories: Alerta MX "/>
+    <meta property="og:url" content="http://blog.codeandomexico.org/2015/01/19/developer-stories-retos-publicos/"/>
+    
+    <meta property="og:image" content="http://blog.codeandomexico.org/images/dev_workspace.jpg"/>
+    
+    <meta property="og:image" content="http://blog.codeandomexico.org/images/logo.png"/>   
+    
+    
+    <meta property="og:description" content="Historia del último día de un reto desde el punto de vista de un developer."/>
+    <meta name="description" content="Historia del último día de un reto desde el punto de vista de un developer."/>
+    
+    <meta property="og:site_name" content="Codeando México Blog">     
+    <meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@CodeandoMexico">
+
+
+<meta name="twitter:creator" content="@jimenezjrs">
+
+
+<meta name="twitter:domain" content="http://blog.codeandomexico.org">
+
+
+<meta name="twitter:title" content="Developer Stories: Alerta MX">
+
+
+
+<meta name="twitter:url" content="http://blog.codeandomexico.org/2015/01/19/developer-stories-retos-publicos/">
+
+
+
+<meta name="twitter:description" content="Historia del último día de un reto desde el punto de vista de un developer.">
+
+
+<meta name="twitter:image:src" content="http://blog.codeandomexico.org/path/to/image/logo.png">
+
+
+</head>
+<body>
+    
+<section class="site-nav">
+    <header>
+        <nav id="navigation">
+            <a class="brand" href="/">
+                <img src="/images/logo.png" alt="Inc">
+            </a>
+            <a href="/" class="home">Blog</a>
+            <a href="http://codeandomexico.org/acerca/">Acerca</a>
+        </nav>
+        <nav class="tagline">
+            <span>La plataforma para la nueva era de innovación cívica</span>
+            <a href="http://codeandomexico.org/" class="btn btn-outline">Conocer más</a>
+        </nav>
+    </header>
+</section>
+
+
+<div class="article-cover">
+    <div>
+        <img src="/images/dev_workspace.jpg" class="image">
+    </div>
+</div>
+
+<article>
+
+    <div class="container">
+        <header>
+            <div class="meta">
+                Por <address><a rel="author" href="" title="Raúl Jiménez" target="_blank">Raúl Jiménez</a></address> &mdash;
+                <time pubdate datetime="2015-19-January" title="January 19, 2015">January 19, 2015</time>
+            </div>
+            <h1 class="title">Developer Stories: Alerta MX</h1>
+            
+        </header>
+
+        <section>
+            <p>Después de tomar un café negro en <a href='http://www.elcowork.com/' target='_blank'>&quot;El Cowork&quot;</a> a la una y media en la tarde recuerdo escuchar repetidamente la frase <em>“winter is coming”,</em>cada repetición sonaba más creíble y no podía evitar reír nerviosamente en cada ocasión que escuchaba esas palabras. Y es que, el número de propuestas recibidas y <em>requests</em> incrementaba paulatinamente y cada hora la frecuencia era mayor. Era 22 de Julio, el último día de la primera etapa del reto Alerta MX, y la mayoría de los equipos habían esperado el último momento para subir su idea a la plataforma. Recordé los días en que era estudiante y dejaba las cosas hasta el final, me imagino que uno que otro se identifica con el sentimiento, donde son minutos o segundos los restantes para entregar esa tarea o proyecto final.</p>
+
+<p>A las once por la noche, las propuestas no paraban de entrar en el sistema. Todavía quedaba una hora para que la plataforma colocara el mensaje programado de “Han sido recibidas <em>N</em> propuestas” marcando el fin de la primera etapa del reto. Aún faltaba por implementar un par de cambios de estructura así como de diseño en la plataforma y como en cada <em>deadline, ”</em>aparecen<em>” cambios de último momento</em>. Llegaron toda clase de comentarios y correos electrónicos, con “<em>x”</em>y “<em>z</em>” problema: equipos tratando de subir archivos con distintos formatos de los permitidos, recibiendo correctamente un mensaje de error. Cada uno ellos fueron atendidos casi instantáneamente por Juan Pablo(<a href='https://twitter.com/juanpabloe' target='_blank'>@juanpabloe</a>) y a su vez, él se comunicaba conmigo para corregir <em>bugs</em> y detalles que aparecían. Era una carrera contra el tiempo, aquellas raras ocasiones donde tus dedos continúan escribiendo líneas de código y te encuentras completamente sumergido en la pantalla. Urgencia es el sentimiento que describe mi estado de ánimo en aquel instante.</p>
+
+<p>En un monitor externo el <em>log</em> se actualizaba furiosamente, la velocidad en el que aparecían las distintas peticiones de los usuarios me hacían creer que el sistema podría llegar a estar lo suficientemente estresado como para <em>tumbar</em> la plataforma. Lo bueno es que sabía que en cualquier momento era posible escalar el sistema para atender a más usuarios, así que decidí no prestar más atención a la terminal y enfocarme a continuar escribiendo el código que iba a subir al momento de cierre de la etapa de ideas.</p>
+
+<p>Una hora después, terminé de escribir y correr satisfactoriamente la última prueba del sistema. Minutos antes el reto había cerrado y observé los últimos cambios realizados esa noche reflejarse en el sitio web. Las dudas y correos fueron atendidos correctamente, el log regresó a su velocidad normal y los servidores nunca se cayeron. Fui apresuradamente en busca de una recompensa en forma de cerveza para sacudir la cafeína que iba a mantenerme despierto en caso de que algo hubiera salido mal. Me mantuve al pendiente de errores así como de otros <em>cambios inesperados</em> por treinta minutos más. Al confirmar que todo estuviera funcionando correctamente di la noche por terminada y fui a dormir.</p>
+
+<p>Al día siguiente el análisis reveló que el reto contó con la sorprendente participación de 450 personas. Definitivamente ese fue uno de los días más intensos que tuve como desarrollador en Codeando México, y con gusto volvería a repetirlo.</p>
+            
+<div class="social">
+    <div>
+        <a href="https://twitter.com/share" class="twitter-share-button"  data-text="Developer Stories: Alerta MX" data-related="CodeandoMexico">Tweet</a>
+    </div>
+    
+    
+    <div>
+        <div class="fb-like" data-width="150" data-layout="button_count" data-action="like" data-show-faces="true" data-send="false"></div>
+    </div>
+    
+    
+    
+    
+    <div>
+        <a href="http://news.ycombinator.com/submit" class="hn-share-button">Vote on HN</a>
+    </div>
+    
+</div>
+
+        </section>
+
+        <footer>
+            <address>
+               <img src="/images/authors/jimenezjrs.png">
+                <p>Escrito por <strong><a rel="author" href="https://twitter.com/jimenezjrs" title="" target="_blank">Raúl Jiménez</a></strong><br>
+                <span class="muted">Full Stack Developer</span>
+                </p>
+            </address>
+
+        </footer>
+
+        
+        <section>
+            <div id="disqus_thread"></div>
+<script type="text/javascript">
+    /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
+    var disqus_shortname = 'codeandomx-blog'; // required: replace example with your forum shortname
+
+    /* * * DON'T EDIT BELOW THIS LINE * * */
+    (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+    })();
+</script>
+        </section>
+        
+    </div>
+</article>
+
+
+<footer class="site-footer">
+    <div class="container">
+        2016 
+        
+        <nav>
+            <a href="http://codeandomexico.org/">Codeando México</a> &middot;
+            <a href="/">Blog</a> &middot;
+            <a href="http://codeandomexico.org/acerca/">Acerca</a>
+        </nav>
+        
+        <nav class="social">
+            
+            <a href="https://twitter.com/CodeandoMexico" title="Follow on Twitter" target="_blank"><i class="icon icon-twitter black"></i></a>
+            
+            
+            <a href="http://facebook.com/CodeandoMexico" title="Follow on Facebook" target="_blank"><i class="icon icon-facebook black"></i></a>
+            
+            
+            <a href="http://github.com/CodeandoMexico" title="Collaborate with us" target="_blank"><i class="icon icon-github black"></i></a>
+            
+            <a href="/feed.xml" title="RSS Feed">
+                <i class="icon icon-rss black"></i>
+            </a>
+        </nav>
+        <!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+  <form action="http://codeandomexico.us4.list-manage.com/subscribe/post?u=9999e133ff73ed69bbddc6af9&amp;id=3523320c00" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <label for="mce-EMAIL">Sigue nuestras noticias</label>
+    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="dirección email" required>
+    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_9999e133ff73ed69bbddc6af9_f7c10ff457" value=""></div>
+    <div class="clear"><input type="submit" value="Suscribir al newsletter" name="subscribe" id="mc-embedded-subscribe" class="btn btn-outline"></div>
+  </form>
+</div>
+
+<!--End mc_embed_signup-->
+
+    </div>
+</footer>
+
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+<script src="/assets/main.js"></script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=253595308025739";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+<script>
+    (function(d, t) {
+        var g = d.createElement(t),
+            s = d.getElementsByTagName(t)[0];
+        g.src = '//hnbutton.appspot.com/static/hn.min.js';
+        s.parentNode.insertBefore(g, s);
+    }(document, 'script'));
+</script>
+
+  <!--google analytics tracking code here-->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-36672089-4', 'codeandomexico.org');
+  ga('send', 'pageview');
+
+</script>
+
+
+
+
+</body>
+</html>
