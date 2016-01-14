@@ -64,3 +64,5 @@ Como parte de tu rol como líder de comunicación, nos ayudarás a:
 * Flexibilidad, con posibilidad de iterar día a día.
 
 * Regresar a la comunidad, ya sea con blogposts, código open source y participando en eventos de cultura hacker e impacto social.
+
+Si te interesa unirte al equipo de Codeando México, escríbenos a [equipo@codeandomexico.org](mailto:equipo@codeandomexico.org) con el título del correo "Líder de comunicación", anexando tu CV, portafolio y/o GitHub y respondiendo a la siguiente pregunta: _¿Cómo puede la comunicación ayudar a generar cambios sociales?_
