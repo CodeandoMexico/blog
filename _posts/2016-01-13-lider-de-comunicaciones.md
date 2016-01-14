@@ -22,47 +22,29 @@ Buscamos sumar al próximo o a la próxima Líder de Comunicación de Codeando M
 Como parte de tu rol como líder de comunicación, nos ayudarás a:
 
 * Desarrollar el plan de comunicación estratégica para la organización.
-
 * Manejar la comunicación del día a día con la comunidad de Codeando México: redes sociales, correo electrónico (boletines, anuncios). 
-
 * Crear materiales de comunicación para productos, eventos, hackathons y blogposts.
-
-* Manejar la línea editorial de nuestro blog e impulsar la generación de contenido por miembros del equipo e invitados
-
+* Manejar la línea editorial de nuestro blog e impulsar la generación de contenido por miembros del equipo e invitados.
 * Definir la identidad gráfica y branding de proyectos de Codeando México, alineados a la estrategia de comunicación.
-
 * Formar alianzas con medios de comunicación externos: revistas, periódicos, blogs, etc.
-
 * Apoyar en necesidades de comunicación de demás áreas: Innovación Cívica y Comunidades.
-
 
 ## Lo que buscamos
 
 * Genialidad en expresión verbal como escrita, tanto en inglés como en español.
-
 * Experiencia con diseño gráfico, creación de video, _storytelling_, fotografía y otros medios digitales.
-
 * Creatividad y _open mindedness_.
-
 * Actitud manos a la obra para resolver problemáticas rápidamente.
-
 * Uso de métricas e indicadores.
-
 * Experiencia en crecimiento de comunidades orgánicamente.
-
 
 ## Lo que nos encanta
 
 * Experimentar y aprender de ello. 
-
 * Darnos feedback constantemente.
-
 * Ser positivos, independientes y versátiles, con habilidad de cambiar e iterar sobre  decisiones día a día.
-
 * Las ideas nuevas que salen de lo tradicional.
-
 * Flexibilidad, con posibilidad de iterar día a día.
-
 * Regresar a la comunidad, ya sea con blogposts, código open source y participando en eventos de cultura hacker e impacto social.
 
 Si te interesa unirte al equipo de Codeando México, escríbenos a [equipo@codeandomexico.org](mailto:equipo@codeandomexico.org) con el título del correo "Líder de comunicación", anexando tu CV, portafolio y/o GitHub y respondiendo a la siguiente pregunta: _¿Cómo puede la comunicación ayudar a generar cambios sociales?_
